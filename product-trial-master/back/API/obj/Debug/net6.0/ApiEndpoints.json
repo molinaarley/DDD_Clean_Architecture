@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "AltenEcommerce.API.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "account",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Domain.Entities.UserEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AltenEcommerce.API.Controllers.ProductController",
     "Method": "GetAll",
     "RelativePath": "products",
@@ -74,6 +90,86 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AltenEcommerce.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AltenEcommerce.API.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AltenEcommerce.API.Controllers.UserCartWishlistController",
+    "Method": "AddToCart",
+    "RelativePath": "user/cart",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.Features.Cart.Commands.AddToCartCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AltenEcommerce.API.Controllers.UserCartWishlistController",
+    "Method": "GetCart",
+    "RelativePath": "user/cart",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AltenEcommerce.API.Controllers.UserCartWishlistController",
+    "Method": "AddToWishlist",
+    "RelativePath": "user/wishlist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.Features.Wishlist.Commands.AddToWishlistCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AltenEcommerce.API.Controllers.UserCartWishlistController",
+    "Method": "GetWishlist",
+    "RelativePath": "user/wishlist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

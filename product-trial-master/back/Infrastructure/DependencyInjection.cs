@@ -1,5 +1,5 @@
-using AltenEcommerce.Infrastructure.Services;
 using Application.Interfaces;
+using Infrastructure.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -12,6 +12,12 @@ namespace AltenEcommerce.Infrastructure
         {
 
             services.AddSingleton<IProductService, ProductFileService>();
+            services.AddSingleton<IUserService, UserFileService>();
+
+            services.AddSingleton<ICartService, CartService>();
+            services.AddSingleton<IWishlistService, WishlistService>();
+
+
 
             return services;
         }

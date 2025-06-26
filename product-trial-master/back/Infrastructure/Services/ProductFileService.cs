@@ -7,7 +7,7 @@ using System.Linq;
 using Domain.Entities;
 using Application.Interfaces;
 
-namespace AltenEcommerce.Infrastructure.Services
+namespace Infrastructure.Services
 {
     public class ProductFileService : IProductService
     {

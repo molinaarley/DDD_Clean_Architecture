@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "62JwWtRr8XIuzbX1w75bFAvwIqD3BP99g7pwIuIy1F1yRxwu35Za2zERTqNfXbAjXQCaX95RrMmdybuQnyYyOA==",
+  "dgSpecHash": "nXJkL6shJeddZURfMV8gwlmNWsKyi+ZyZpd1sfWV1H4Jt8nbreiq7w49R9FBDofaUWdKg/eCu6MBpQc8KobYRA==",
   "success": true,
   "projectFilePath": "C:\\worck\\alten_test\\Alten_TEST\\product-trial-master\\back\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.2\\fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",

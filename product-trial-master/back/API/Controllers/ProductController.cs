@@ -24,6 +24,7 @@ namespace AltenEcommerce.API.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> GetAll()
         {
             var result = await _mediator.Send(new GetAllProductsQuery());
@@ -31,6 +32,7 @@ namespace AltenEcommerce.API.Controllers
         }
 
         [HttpGet("{id}")]
+        [Authorize]
         public async Task<IActionResult> GetById(int id)
         {
             var result = await _mediator.Send(new GetProductByIdQuery(id));
@@ -39,7 +41,7 @@ namespace AltenEcommerce.API.Controllers
             return Ok(result);
         }
 
-        [Authorize]
+        [Authorize(Policy = "AdminOnly")]
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] ProductEntity product)
         {
@@ -47,7 +49,7 @@ namespace AltenEcommerce.API.Controllers
             return Ok();
         }
 
-        [Authorize]
+        [Authorize(Policy = "AdminOnly")]
         [HttpPatch("{id}")]
         public async Task<IActionResult> Update(int id, [FromBody] ProductEntity product)
         {
@@ -57,7 +59,7 @@ namespace AltenEcommerce.API.Controllers
             return NoContent();
         }
 
-        [Authorize]
+        [Authorize(Policy = "AdminOnly")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
