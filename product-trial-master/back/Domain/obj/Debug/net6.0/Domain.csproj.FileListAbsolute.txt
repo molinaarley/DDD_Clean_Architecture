@@ -1,0 +1,12 @@
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\bin\Debug\net6.0\Domain.dll
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\bin\Debug\net6.0\Domain.pdb
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\obj\Debug\net6.0\Domain.dll
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\obj\Debug\net6.0\Domain.pdb
+C:\worck\alten_test\Alten_TEST\product-trial-master\back\Domain\obj\Debug\net6.0\ref\Domain.dll
