@@ -8,12 +8,13 @@ using Domain.Entities;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Threading.Tasks;
 
 namespace AltenEcommerce.API.Controllers
 {
     [ApiController]
-    [Route("products")]
+    [Route("api/products")]
     public class ProductController : ControllerBase
     {
         private readonly IMediator _mediator;
@@ -45,6 +46,9 @@ namespace AltenEcommerce.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] ProductEntity product)
         {
+            product.CreatedAt = DateTime.Now;
+            product.UpdatedAt = DateTime.Now;
+
             await _mediator.Send(new CreateProductCommand(product));
             return Ok();
         }
@@ -53,6 +57,7 @@ namespace AltenEcommerce.API.Controllers
         [HttpPatch("{id}")]
         public async Task<IActionResult> Update(int id, [FromBody] ProductEntity product)
         {
+            product.UpdatedAt = DateTime.Now;
             var success = await _mediator.Send(new UpdateProductCommand(id, product));
             if (!success)
                 return NotFound();

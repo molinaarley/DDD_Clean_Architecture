@@ -51,6 +51,20 @@ builder.Services.AddAuthorization(options =>
 
 builder.Services.AddSingleton<IAuthorizationHandler, AdminOnlyHandler>();
 
+// CORS
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(policy =>
+    {
+        policy.WithOrigins("http://localhost:4200") // ⚠️ Angular dev server
+              .AllowAnyHeader()
+              .AllowAnyMethod()
+              .AllowCredentials();
+    });
+});
+
+
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
@@ -85,7 +99,7 @@ if (app.Environment.IsDevelopment())
 }
 app.UseMiddleware<ExceptionHandlingMiddleware>();
 
-
+app.UseCors();
 app.UseAuthentication();
 app.UseAuthorization();
 

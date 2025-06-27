@@ -1,4 +1,4 @@
-
+﻿
 using Domain.Enums;
 using System;
 
@@ -18,7 +18,9 @@ namespace Domain.Entities
         public int ShellId { get; set; }
         public InventoryStatus InventoryStatus { get; set; }
         public double Rating { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public DateTime UpdatedAt { get; set; }
+
+        public DateTime? CreatedAt { get; set; }
+        public DateTime? UpdatedAt { get; set; }
     }
+
 }

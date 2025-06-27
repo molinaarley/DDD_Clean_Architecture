@@ -1,21 +1,5 @@
 [
   {
-    "Id": 1,
-    "Code": "PROD-001",
-    "Name": "Clavier M\u00E9canique RGB",
-    "Description": "Clavier m\u00E9canique r\u00E9tro\u00E9clair\u00E9 RGB avec switches bleus",
-    "Image": "https://example.com/images/clavier-rgb.jpg",
-    "Category": "\u00C9lectronique",
-    "Price": 79.99,
-    "Quantity": 25,
-    "InternalReference": "INT-REF-001",
-    "ShellId": 1,
-    "InventoryStatus": 0,
-    "Rating": 4.5,
-    "CreatedAt": "2025-06-26T12:40:23.0057076Z",
-    "UpdatedAt": "2025-06-26T12:40:24.0472762Z"
-  },
-  {
     "Id": 2,
     "Code": "PROD-002",
     "Name": "Souris Gamer Sans Fil",
@@ -46,5 +30,21 @@
     "Rating": 4.8,
     "CreatedAt": "2025-06-26T12:56:10.4504283Z",
     "UpdatedAt": "2025-06-26T12:56:10.4504289Z"
+  },
+  {
+    "Id": 4,
+    "Code": "",
+    "Name": "rtretrkkkh",
+    "Description": "yuuuu",
+    "Image": "",
+    "Category": "Clothing",
+    "Price": 6,
+    "Quantity": 0,
+    "InternalReference": "",
+    "ShellId": 0,
+    "InventoryStatus": 0,
+    "Rating": 0,
+    "CreatedAt": "2025-06-27T00:59:22.2856139Z",
+    "UpdatedAt": "2025-06-27T00:59:22.2856143Z"
   }
 ]

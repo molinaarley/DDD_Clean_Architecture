@@ -18,7 +18,5 @@ public class CreateProductCommandValidator : AbstractValidator<CreateProductComm
         RuleFor(x => x.Product.Category)
             .NotEmpty().WithMessage("La catégorie du produit est requise.");
 
-        RuleFor(x => x.Product.Quantity)
-            .GreaterThanOrEqualTo(0).WithMessage("La quantité doit être supérieure ou égale à zéro.");
     }
 }

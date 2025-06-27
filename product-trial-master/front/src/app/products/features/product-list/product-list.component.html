@@ -8,14 +8,25 @@
             <p-card class="block mb-2">
                 <span class="font-medium text-secondary text-sm">{{ product.category }}</span>
                 <div class="text-lg font-medium text-900 mt-2">{{ product.name }}</div>
-
+                <p class="text-sm">{{ product.description }}</p>
+                <p><strong>Code:</strong> {{ product.code }}</p>
+                <p><strong>Référence interne:</strong> {{ product.internalReference }}</p>
+                <p><strong>Prix:</strong> {{ product.price }} €</p>
+                <p><strong>Quantité:</strong> {{ product.quantity }}</p>
+                <p><strong>Status:</strong> {{ product.inventoryStatus }}</p>
+                <p><strong>Rating:</strong> {{ product.rating }}/5</p>
+                <p><strong>Shell ID:</strong> {{ product.shellId }}</p>
+              
                 <ng-template pTemplate="footer">
-                    <div class="flex gap-3 mt-1">
-                        <p-button label="Modifier" severity="secondary" (onClick)="onUpdate(product)"/>
-                        <p-button label="Supprimer" severity="danger" (onClick)="onDelete(product)" />
-                    </div>
+                  <div class="flex gap-3 mt-1">
+                    <p-button label="Modifier" severity="secondary" (onClick)="onUpdate(product)" />
+                    <p-button label="Supprimer" severity="danger" (onClick)="onDelete(product)" />
+                    <p-button label="Ajouter au panier" (onClick)="addToCart(product)" severity="success" />
+
+                  </div>
                 </ng-template>
-            </p-card>
+              </p-card>
+              
         }
     </ng-template>
 </p-dataView>

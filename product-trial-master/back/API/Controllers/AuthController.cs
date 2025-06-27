@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace AltenEcommerce.API.Controllers
 {
     [ApiController]
-    [Route("")]
+    [Route("api/auth")]
     public class AuthController : ControllerBase
     {
         private readonly IMediator _mediator;

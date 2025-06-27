@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 namespace AltenEcommerce.API.Controllers
 {
     [ApiController]
-    [Route("user")]
+    [Route("api/user")]
     [Authorize]
     public class UserCartWishlistController : ControllerBase
     {

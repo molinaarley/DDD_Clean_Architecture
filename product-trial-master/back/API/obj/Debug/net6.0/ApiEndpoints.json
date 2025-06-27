@@ -2,7 +2,7 @@
   {
     "ContainingType": "AltenEcommerce.API.Controllers.AuthController",
     "Method": "Register",
-    "RelativePath": "account",
+    "RelativePath": "api/auth/account",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -16,9 +16,25 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "AltenEcommerce.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AltenEcommerce.API.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "AltenEcommerce.API.Controllers.ProductController",
     "Method": "GetAll",
-    "RelativePath": "products",
+    "RelativePath": "api/products",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -28,7 +44,7 @@
   {
     "ContainingType": "AltenEcommerce.API.Controllers.ProductController",
     "Method": "Create",
-    "RelativePath": "products",
+    "RelativePath": "api/products",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -44,7 +60,7 @@
   {
     "ContainingType": "AltenEcommerce.API.Controllers.ProductController",
     "Method": "GetById",
-    "RelativePath": "products/{id}",
+    "RelativePath": "api/products/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -60,7 +76,7 @@
   {
     "ContainingType": "AltenEcommerce.API.Controllers.ProductController",
     "Method": "Update",
-    "RelativePath": "products/{id}",
+    "RelativePath": "api/products/{id}",
     "HttpMethod": "PATCH",
     "IsController": true,
     "Order": 0,
@@ -81,7 +97,7 @@
   {
     "ContainingType": "AltenEcommerce.API.Controllers.ProductController",
     "Method": "Delete",
-    "RelativePath": "products/{id}",
+    "RelativePath": "api/products/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -95,25 +111,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "AltenEcommerce.API.Controllers.AuthController",
-    "Method": "Login",
-    "RelativePath": "token",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "request",
-        "Type": "AltenEcommerce.API.Controllers.LoginRequest",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
     "ContainingType": "AltenEcommerce.API.Controllers.UserCartWishlistController",
     "Method": "AddToCart",
-    "RelativePath": "user/cart",
+    "RelativePath": "api/user/cart",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -129,7 +129,7 @@
   {
     "ContainingType": "AltenEcommerce.API.Controllers.UserCartWishlistController",
     "Method": "GetCart",
-    "RelativePath": "user/cart",
+    "RelativePath": "api/user/cart",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -145,7 +145,7 @@
   {
     "ContainingType": "AltenEcommerce.API.Controllers.UserCartWishlistController",
     "Method": "AddToWishlist",
-    "RelativePath": "user/wishlist",
+    "RelativePath": "api/user/wishlist",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -161,7 +161,7 @@
   {
     "ContainingType": "AltenEcommerce.API.Controllers.UserCartWishlistController",
     "Method": "GetWishlist",
-    "RelativePath": "user/wishlist",
+    "RelativePath": "api/user/wishlist",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
