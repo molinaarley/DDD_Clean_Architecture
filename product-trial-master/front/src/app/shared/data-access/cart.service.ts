@@ -14,10 +14,12 @@ export class CartService {
   cart = this._cart.asReadonly();
 
   addToCart(productId: number, email: string) {
+    
     return this.http.post<{ success: boolean }>(
       `${environment.apiUrl}/api/user/cart`,
       { productId, email }
     );
+
   }
 
   
@@ -27,10 +29,15 @@ export class CartService {
   }
 
   removeFromCart(productId: number): void {
+
+     // console.log(this._count);
     const current = this._cart(); // usar _cart, no cart porque queremos modificarlo
     const updated = current.filter(item => item.id !== productId);
     this._cart.set(updated);
-    this._count.set(updated.length); // actualizar el contador también
+
+      if(this._count()>0){
+        this._count.set(this._count()-1); 
+      }
   }
 
 

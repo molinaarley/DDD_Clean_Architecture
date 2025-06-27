@@ -3,6 +3,7 @@ import { Product } from "app/products/data-access/product.model";
 import { ProductsService } from "app/products/data-access/products.service";
 import { ProductFormComponent } from "app/products/ui/product-form/product-form.component";
 import { CartService } from "app/shared/data-access/cart.service";
+
 import { ButtonModule } from "primeng/button";
 import { CardModule } from "primeng/card";
 import { DataViewModule } from 'primeng/dataview';
@@ -95,6 +96,7 @@ export class ProductListComponent implements OnInit {
 
   public onAddToCart(product: Product) {
     const email = localStorage.getItem('email')!;
+  //console.log(product);
     this.cartService.addToCart(product.id, email).subscribe(() => {
       const current = this.cartService.count();
       this.cartService.updateCartCount(current + 1);
