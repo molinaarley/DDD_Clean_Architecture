@@ -32,4 +32,14 @@ export class CartService {
     this._cart.set(updated);
     this._count.set(updated.length); // actualizar el contador también
   }
+
+
+  loadCart(email: string): void {
+    this.http.get<any[]>(`${environment.apiUrl}/api/user/cart?email=${email}`)
+      .subscribe(cartItems => {
+        this._cart.set(cartItems);
+        this._count.set(cartItems.length);
+      });
+  }
+  
 }

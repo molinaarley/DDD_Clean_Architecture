@@ -43,6 +43,11 @@ export class ProductListComponent implements OnInit {
 
   ngOnInit() {
     this.productsService.get().subscribe();
+
+    const email = localStorage.getItem('email');
+    if (email) {
+      this.cartService.loadCart(email); 
+    }
   }
 
   public onCreate() {
