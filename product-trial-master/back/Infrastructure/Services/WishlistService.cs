@@ -10,17 +10,19 @@ namespace Infrastructure.Services
 {
     public class WishlistService : IWishlistService
     {
-        private const string FolderPath = "Data/Wishlist";
+        private readonly string _folderPath;
 
-        public WishlistService()
+        public WishlistService(string? folderPath = null)
         {
-            if (!Directory.Exists(FolderPath))
-                Directory.CreateDirectory(FolderPath);
+            _folderPath = folderPath ?? Path.Combine(Directory.GetCurrentDirectory(), "Data", "Wishlist");
+
+            if (!Directory.Exists(_folderPath))
+                Directory.CreateDirectory(_folderPath);
         }
 
         public async Task<bool> AddToWishlistAsync(string email, List<ProductEntity> products)
         {
-            var path = Path.Combine(FolderPath, $"{email}.json");
+            var path = Path.Combine(_folderPath, $"{email}.json");
             var existing = new List<ProductEntity>();
 
             if (File.Exists(path))
@@ -38,7 +40,7 @@ namespace Infrastructure.Services
 
         public async Task<List<ProductEntity>> GetWishlistAsync(string email)
         {
-            var path = Path.Combine(FolderPath, $"{email}.json");
+            var path = Path.Combine(_folderPath, $"{email}.json");
             if (!File.Exists(path)) return new List<ProductEntity>();
 
             var json = await File.ReadAllTextAsync(path);

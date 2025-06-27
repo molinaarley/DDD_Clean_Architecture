@@ -1,20 +1,35 @@
-import { Injectable, signal } from '@angular/core';
-import { Product } from 'app/products/data-access/product.model';
+import { HttpClient } from "@angular/common/http";
+import { Injectable, inject, signal } from "@angular/core";
+import { environment } from "environments/environment";
 
 @Injectable({ providedIn: 'root' })
 export class CartService {
-  private readonly _items = signal<Product[]>([]);
-  public readonly items = this._items.asReadonly();
+  private http = inject(HttpClient);
 
-  public add(product: Product): void {
-    this._items.update(items => [...items, product]);
+  // signals
+  private _count = signal(0);
+  count = this._count.asReadonly();
+
+  private _cart = signal<{ id: number; [key: string]: any }[]>([]); // o ajusta el tipo
+  cart = this._cart.asReadonly();
+
+  addToCart(productId: number, email: string) {
+    return this.http.post<{ success: boolean }>(
+      `${environment.apiUrl}/api/user/cart`,
+      { productId, email }
+    );
   }
 
-  public remove(productId: number): void {
-    this._items.update(items => items.filter(p => p.id !== productId));
+  
+
+  updateCartCount(count: number) {
+    this._count.set(count);
   }
 
-  public clear(): void {
-    this._items.set([]);
+  removeFromCart(productId: number): void {
+    const current = this._cart(); // usar _cart, no cart porque queremos modificarlo
+    const updated = current.filter(item => item.id !== productId);
+    this._cart.set(updated);
+    this._count.set(updated.length); // actualizar el contador también
   }
 }

@@ -80,7 +80,21 @@ export class ProductListComponent implements OnInit {
 
 
   public addToCart(product: Product) {
-    this.cartService.add(product);
+   // this.cartService.add(product);
   }
+
+  removeFromCart(productId: number): void {
+    this.cartService.removeFromCart(productId);
+  }
+  
+
+  public onAddToCart(product: Product) {
+    const email = localStorage.getItem('email')!;
+    this.cartService.addToCart(product.id, email).subscribe(() => {
+      const current = this.cartService.count();
+      this.cartService.updateCartCount(current + 1);
+    });
+  }
+  
   
 }

@@ -1,6 +1,7 @@
 import { Routes } from "@angular/router";
 import { HomeComponent } from "./shared/features/home/home.component";
-import { AuthGuard } from "./auth/auth.guard";
+import { authGuard } from "./auth/auth.guard";
+
 
 export const APP_ROUTES: Routes = [
   {
@@ -14,7 +15,7 @@ export const APP_ROUTES: Routes = [
   },
   {
     path: "products",
-    canActivate: [AuthGuard], // 🔒 Protege acceso
+    canActivate: [authGuard], // 🔒 Protege acceso
     loadChildren: () =>
       import("./products/products.routes").then((m) => m.PRODUCTS_ROUTES)
   },

@@ -10,17 +10,20 @@ namespace Infrastructure.Services
 {
     public class CartService : ICartService
     {
-        private const string FolderPath = "Data/Cart";
+        private readonly string _folderPath;
 
-        public CartService()
+
+        public CartService(string? folderPath = null)
         {
-            if (!Directory.Exists(FolderPath))
-                Directory.CreateDirectory(FolderPath);
+            _folderPath = folderPath ?? Path.Combine(Directory.GetCurrentDirectory(), "Data", "Cart");
+
+            if (!Directory.Exists(_folderPath))
+                Directory.CreateDirectory(_folderPath);
         }
 
         public async Task<bool> AddToCartAsync(string email, List<ProductEntity> products)
         {
-            var path = Path.Combine(FolderPath, $"{email}.json");
+            var path = Path.Combine(_folderPath, $"{email}.json");
             var existing = new List<ProductEntity>();
 
             if (File.Exists(path))
@@ -38,7 +41,7 @@ namespace Infrastructure.Services
 
         public async Task<List<ProductEntity>> GetCartAsync(string email)
         {
-            var path = Path.Combine(FolderPath, $"{email}.json");
+            var path = Path.Combine(_folderPath, $"{email}.json");
             if (!File.Exists(path)) return new List<ProductEntity>();
 
             var json = await File.ReadAllTextAsync(path);

@@ -21,7 +21,14 @@
                   <div class="flex gap-3 mt-1">
                     <p-button label="Modifier" severity="secondary" (onClick)="onUpdate(product)" />
                     <p-button label="Supprimer" severity="danger" (onClick)="onDelete(product)" />
-                    <p-button label="Ajouter au panier" (onClick)="addToCart(product)" severity="success" />
+                    <button (click)="onAddToCart(product)" pButton icon="pi pi-shopping-cart" label="Ajouter au panier"></button>
+                    <p-button 
+                    label="Supprimer du panier" 
+                    icon="pi pi-trash" 
+                    severity="danger" 
+                    class="ml-2"
+                    (onClick)="removeFromCart(product.id)">
+                  </p-button>
 
                   </div>
                 </ng-template>

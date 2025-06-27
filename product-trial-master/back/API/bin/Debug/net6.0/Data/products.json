@@ -30,5 +30,21 @@
     "Rating": 4.8,
     "CreatedAt": "2025-06-26T12:56:10.4504283Z",
     "UpdatedAt": "2025-06-26T12:56:10.4504289Z"
+  },
+  {
+    "Id": 4,
+    "Code": "",
+    "Name": "rtretrkkkh",
+    "Description": "yuuuu",
+    "Image": "",
+    "Category": "Clothing",
+    "Price": 6,
+    "Quantity": 0,
+    "InternalReference": "",
+    "ShellId": 0,
+    "InventoryStatus": 0,
+    "Rating": 0,
+    "CreatedAt": "2025-06-27T00:59:22.2856139Z",
+    "UpdatedAt": "2025-06-27T00:59:22.2856143Z"
   }
 ]

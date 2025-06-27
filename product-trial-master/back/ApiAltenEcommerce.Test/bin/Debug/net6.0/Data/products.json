@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 2,
+    "Code": "PROD-002",
+    "Name": "Souris Gamer Sans Fil",
+    "Description": "Souris ergonomique sans fil avec capteur 16000 DPI et \u00E9clairage RGB personnalisable.",
+    "Image": "https://example.com/images/souris-gamer.jpg",
+    "Category": "P\u00E9riph\u00E9riques",
+    "Price": 49.99,
+    "Quantity": 40,
+    "InternalReference": "INT-REF-002",
+    "ShellId": 1,
+    "InventoryStatus": 1,
+    "Rating": 4.2,
+    "CreatedAt": "2025-06-26T12:41:54.0562855Z",
+    "UpdatedAt": "2025-06-26T12:41:54.0562858Z"
+  },
+  {
+    "Id": 3,
+    "Code": "PROD-003",
+    "Name": "\u00C9cran 27\u0022 4K Ultra HD",
+    "Description": "\u00C9cran LED 27 pouces avec r\u00E9solution 4K UHD, HDMI et DisplayPort.",
+    "Image": "https://example.com/images/ecran-4k.jpg",
+    "Category": "Moniteurs",
+    "Price": 299.99,
+    "Quantity": 15,
+    "InternalReference": "INT-REF-003",
+    "ShellId": 1,
+    "InventoryStatus": 0,
+    "Rating": 4.8,
+    "CreatedAt": "2025-06-26T12:56:10.4504283Z",
+    "UpdatedAt": "2025-06-26T12:56:10.4504289Z"
+  },
+  {
+    "Id": 4,
+    "Code": "",
+    "Name": "rtretrkkkh",
+    "Description": "yuuuu",
+    "Image": "",
+    "Category": "Clothing",
+    "Price": 6,
+    "Quantity": 0,
+    "InternalReference": "",
+    "ShellId": 0,
+    "InventoryStatus": 0,
+    "Rating": 0,
+    "CreatedAt": "2025-06-27T00:59:22.2856139Z",
+    "UpdatedAt": "2025-06-27T00:59:22.2856143Z"
+  }
+]
