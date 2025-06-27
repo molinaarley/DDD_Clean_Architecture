@@ -20,6 +20,14 @@ export const APP_ROUTES: Routes = [
       import("./products/products.routes").then((m) => m.PRODUCTS_ROUTES)
   },
   {
+    path: 'contact',
+    canActivate: [authGuard], // opcional si quieres proteger esta ruta
+    loadComponent: () =>
+      import('./features/contact/contact.component').then(m => m.ContactComponent)
+  }
+  
+  ,
+  {
     path: "",
     redirectTo: "home",
     pathMatch: "full"
