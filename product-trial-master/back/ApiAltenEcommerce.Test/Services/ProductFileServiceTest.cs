@@ -21,8 +21,9 @@ namespace API.Tests.Services
             _testFilePath = Path.Combine(Path.GetTempPath(), Guid.NewGuid() + ".json");
             File.WriteAllText(_testFilePath, "[]");
 
-            // Usamos una subclase para inyectar el path temporal
-            _service = new TestableProductFileService(_testFilePath);
+       
+            _service = new ProductFileService(_testFilePath);
+
         }
 
         [Fact]
@@ -65,15 +66,7 @@ namespace API.Tests.Services
                 File.Delete(_testFilePath);
         }
 
-        // Subclase que permite usar un path específico
-        private class TestableProductFileService : ProductFileService
-        {
-            public TestableProductFileService(string filePath)
-            {
-                typeof(ProductFileService)
-                    .GetField("_filePath", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance)
-                    !.SetValue(this, filePath);
-            }
-        }
+
+        
     }
 }

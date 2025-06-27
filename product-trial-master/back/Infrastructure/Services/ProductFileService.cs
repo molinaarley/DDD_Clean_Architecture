@@ -11,17 +11,19 @@ namespace Infrastructure.Services
 {
     public class ProductFileService : IProductService
     {
-        private readonly string _filePath = Path.Combine(Directory.GetCurrentDirectory(), "Data", "products.json");
+        private readonly string _filePath;
 
-        public ProductFileService()
+        public ProductFileService(string filePath)
         {
-            // Ensure file exists
+            _filePath = filePath;
+
             if (!File.Exists(_filePath))
             {
                 Directory.CreateDirectory(Path.GetDirectoryName(_filePath)!);
                 File.WriteAllText(_filePath, "[]");
             }
         }
+
 
         public async Task<IEnumerable<ProductEntity>> GetAllAsync()
         {
