@@ -1,294 +1,123 @@
-
-C’est étrange parce que je vois que la version 1, la V1, de l’API Portefeuille est en breakage. Mais dans EARNEST, ils utilisent la V1. Et ici, je la vois en breakage dans Swagger. C’est normal ?
-host.json
-
-Estás viendo la documentación Swagger de una Web API interna de AXA IM (concretamente /api/main/portfolios) y cuando haces clic en "Authorize", se abre una ventana para la autenticación mediante OAuth2 con PKCE (Proof Key for Code Exchange), un método seguro para aplicaciones sin backend (como clientes web).
+rrGracias por reenviar las fotos. Ahora que revisé cuidadosamente toda la documentación interna de AXA IM y el mensaje del lead dev, te resumo exactamente lo que tienes que hacer paso por paso para que Git funcione correctamente detrás del proxy ZScaler.
 
 
 ---
 
-🔐 ¿Qué es lo que estás viendo?
+✅ Objetivo
 
-Esta ventana es para autorizarte como usuario para poder hacer pruebas o consumir endpoints protegidos en esa API. Estás viendo una configuración de autenticación con:
-
-OAuth 2.0 (PKCE): Un flujo seguro que no requiere client_secret, pensado para aplicaciones cliente (por eso te dice "leave client_secret blank").
-
-Authorization URL y Token URL: URLs de Microsoft que manejan el login y la entrega del token de acceso.
-
-client_id: Es un identificador público de la aplicación registrada en Azure AD.
-
-Scope: En este caso: user_impersonation para la API de https://axaim.omnicrosoft.com/...
-
+Permitir que Git funcione correctamente en el entorno de AXA, que usa un proxy ZScaler y requiere certificado raíz personalizado.
 
 
 ---
 
-✅ ¿Qué tienes que hacer?
-
-Si estás autorizado a usar esta API como usuario interno de AXA IM, lo que debes hacer normalmente es:
-
-1. Hacer clic en el botón verde Authorize (en la ventana emergente).
-
-
-2. Esto redirigirá a la página de login de Microsoft (SSO corporativo).
-
-
-3. Inicias sesión con tu cuenta profesional de AXA (ej. prenom.nom@axa-im.com).
-
-
-4. Una vez autenticado, Swagger obtendrá un access token válido y podrás usar los endpoints como el POST /v1/benchmarks/characteristics.
-
-
+🧭 PASOS COMPLETOS (según la documentación interna de AXA IM)
 
 
 ---
 
-⚠️ Si no funciona o da error:
+① Configurar Git con proxy, backend SSL y usuario
 
-Asegúrate de estar conectado a la red corporativa AXA o VPN.
+Ejecuta estos comandos en Git Bash o CMD:
 
-Tienes que estar registrado como usuario autorizado en Azure AD para esa API.
+git config --global http.proxy http://127.0.0.1:9000/localproxy.pac
+git config --global http.sslbackend openssl
+git config --global http.sslverify false
 
-Si no estás autorizado, tendrás que pedir acceso a la DataPlatform Support (hay un enlace en la documentación).
+git config --global user.name "Tu Nombre"
+git config --global user.email "tu.email@axa-im.com"
 
-
-
----
-
-📌 En resumen:
-
-No tienes que escribir nada en esa ventana. Solo:
-
-1. Deja el client_secret en blanco.
-
-
-2. Dale a Authorize.
-
-
-3. Inicia sesión con tu cuenta corporativa.
-
-
-
-Y listo, estarás autenticado para probar los endpoints.
-
-¿Quieres que te ayude a hacer una prueba con el endpoint POST /v1/benchmarks/characteristics?
-
-Perfecto, gracias por compartir las capturas. Te explico paso a paso cómo funciona la parte Ágil en Azure DevOps, especialmente en Boards, User Stories, y Sprints, para que puedas orientarte mejor (aunque vengas de JIRA, los conceptos son similares):
+⚠️ Cambia "Tu Nombre" y el email por los tuyos reales.
 
 
 ---
 
-🧩 Conceptos clave en Azure DevOps (Agile)
+② Instalar el certificado ZScaler (CA root)
 
-📘 1. Work Item
+1. Exporta el certificado desde el navegador:
 
-Es cualquier tarea o elemento de trabajo que se necesita seguir en el proyecto. Puede ser:
+Abre el sitio web https://dev.azure.com desde Microsoft Edge o Chrome.
 
-User Story: Lo que un usuario quiere hacer (como en JIRA).
+Haz clic en el candado de la barra de direcciones.
 
-Bug: Un error o defecto.
+Ve a Certificado > Ruta de certificación.
 
-Task: Subtareas que se dividen desde una historia.
+Selecciona ZScaler Root CA o ZScaler Intermediate Root CA.
 
-Epic: Gran funcionalidad o agrupación de historias.
+Haz clic en "Copier dans un fichier...".
 
-Feature: Un conjunto de funcionalidades (puede contener User Stories).
+Elige Base-64 codé X.509 (.CER).
 
-
-📌 Aparece en tus pantallas como una lista con columnas: ID, Title, Assigned To, State, etc.
-
-
----
-
-👤 2. User Story
-
-Representa una funcionalidad o requerimiento desde el punto de vista del usuario. Por ejemplo:
-
-> "As a P&R analyst, I want the LEI Name to be retrieved"
+Guárdalo como: zsroot.cer.
 
 
 
-Esto indica qué quiere hacer el usuario, para qué, y por qué.
-
-💡 Equivalente a una "Story" en JIRA.
+2. Abre este archivo con Notepad y copia todo su contenido.
 
 
----
+3. Ve a esta ruta:
 
-📅 3. Sprint
+C:\Program Files\Git\mingw64\ssl\certs\ca-bundle.crt
 
-Un periodo de tiempo fijo (usualmente 2 semanas) donde se planifican y completan ciertos work items (historias, bugs, tareas).
-
-En tus capturas vemos por ejemplo:
-
-Sprint 25.2.3 (16 juin - 4 juillet)
-→ Este sprint está activo ahora.
+⚠️ Necesitarás permisos de administrador.
 
 
-
----
-
-🗂️ 4. Boards
-
-Es el tablero visual (tipo Kanban) donde ves las historias divididas por columnas de estado:
-
-New, Ready, Active, Resolved, On-Hold, Closed
-
-
-Permite mover las historias de una columna a otra según su progreso, igual que en JIRA.
-
-
----
-
-📥 5. Backlog
-
-Lista priorizada de todas las historias pendientes. Desde allí puedes:
-
-Ver todas las historias no asignadas a un sprint.
-
-Reordenarlas.
-
-Arrastrarlas a un sprint futuro.
-
-
-📌 En tu imagen se ve: Planning > Sprint 25.2.3 (16/06–04/07).
-
-
----
-
-👥 6. Asignación
-
-Cada historia o tarea está asignada a alguien. Ejemplo:
-
-"DIDENKO Danil", "MOTA GOMES William", "OGOR Anna"
-
-
-Puedes filtrar por personas para ver tu propio trabajo.
-
-
----
-
-🧭 ¿Cómo usarlo tú como dev?
-
-Aquí va una mini-guía rápida:
-
-1. Ir a Boards > Backlog
-→ Ahí verás todas las historias priorizadas.
-
-
-2. Sprint actual
-→ Ve a Boards > Sprints > Taskboard, selecciona el sprint actual (por fechas), y verás tu trabajo.
-
-
-3. Mover historias o tareas
-→ Desde el Taskboard, puedes cambiar el estado arrastrando los elementos entre columnas (New → Active → Resolved...).
-
-
-4. Crear tareas
-Dentro de una historia, puedes crear tareas (Tasks) para dividir el trabajo.
+4. Pega el contenido del .cer al final del archivo ca-bundle.crt.
 
 
 
 
 ---
 
-🛠️ ¿Qué diferencia hay con JIRA?
+③ Verifica la configuración final
 
-Concepto	Azure DevOps	JIRA
+Corre esto:
 
-Historia	User Story	Story
-Tarea	Task	Sub-task / Task
-Épica	Epic	Epic
-Sprint	Sprint (en Boards)	Sprint (en Scrum Board)
-Tablero Kanban	Board (Taskboard)	Kanban Board
-Backlog general	Backlogs	Product Backlog
+git config --global --list
+
+Y deberías ver algo así:
+
+http.proxy=http://127.0.0.1:9000/localproxy.pac
+http.sslbackend=openssl
+http.sslverify=false
+user.name=Arley Romero
+user.email=arley.romero@axa-im.com
+
+
+---
+
+④ Diagnóstico si sigue fallando
+
+Ejecuta este modo verbose para capturar errores exactos:
+
+set GIT_TRACE_PACKET=1
+set GIT_TRACE=1
+set GIT_CURL_VERBOSE=1
+
+git clone https://dev.azure.com/axa-im/path/to/repo 2> clone-error.txt
+
+
+---
+
+🟦 Variables de entorno (opcional según el lead)
+
+Además de la config de Git, si te pidieron configurar variables de entorno del sistema, añade estas en Variables d’environnement de Windows:
+
+HTTP_PROXY → http://127.0.0.1:9000
+
+HTTPS_PROXY → http://127.0.0.1:9000
 
 
 
 ---
 
-¿Quieres que te haga un esquema visual con flechas explicando cómo se conecta todo eso (backlog → sprint → tareas → estado)?
-¿O prefieres que lo conecte a tus capturas?
+✅ Script .bat automático
 
-Gracias por el comentario. Vamos paso a paso con lo que ya tienes en tus capturas para mostrarte exactamente dónde ver tu Sprint y Taskboard, usando tu pantalla número 5 (donde dice "Sprints"):
+Si quieres, puedo prepararte un script .bat que:
 
+Configura Git.
 
----
-
-✅ ¿Dónde ver el Sprint y tu Taskboard?
-
-En la captura 5, estás exactamente en el lugar correcto:
-
-🔎 Ruta visible en la captura:
-
-Azure DevOps > axaim > AXAIM > Boards > Sprints > 
-TP Non-Transaction Regulatory Reporting > Taskboard
-
-Justo ahí ya estás viendo el Sprint actual: Sprint 25.2.3 (16 juin - 4 juillet).
-
-🔹 En la parte derecha dice:
-
-16 juin - 4 juillet
-3 work days remaining
-
-Esto confirma que ese es el sprint activo.
+Te abre el archivo ca-bundle.crt para que pegues el certificado fácilmente.
 
 
----
-
-📌 ¿Dónde está el Taskboard?
-
-Ya lo estás viendo en esa misma captura. Es esta vista con columnas:
-
-New
-
-Active
-
-On-Hold
-
-Resolved
-
-
-Y dentro ves los ítems como:
-
-214576: As a PO, I want the priority scope...
-
-163774: As a PO, I want to align...
-
-
-🔄 Puedes mover las tarjetas entre columnas para cambiar su estado (igual que en JIRA).
-
-
----
-
-📥 Ver tus tareas solamente
-
-Haz clic arriba en:
-
-Person: All ▼
-
-Y selecciona tu nombre (por ejemplo: Romero Arley o tu login).
-
-Así solo verás lo que está asignado a ti en el sprint actual.
-
-
----
-
-💡 En resumen:
-
-Ya estás en el Taskboard del Sprint actual (Sprint 25.2.3).
-
-Lo que ves son las historias activas clasificadas por estado.
-
-Puedes filtrar por tu nombre y mover las tareas según el avance.
-
-Si haces clic en una tarjeta, se abre y puedes ver la descripción, tareas asociadas, comentarios, etc.
-
-
-
----
-
-¿Quieres que te prepare un pequeño vídeo o diagrama con este flujo para que lo tengas de guía rápida?
-
-
+¿Te lo preparo?
 
