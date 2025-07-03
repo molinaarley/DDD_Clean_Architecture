@@ -210,4 +210,85 @@ Backlog general	Backlogs	Product Backlog
 ¿Quieres que te haga un esquema visual con flechas explicando cómo se conecta todo eso (backlog → sprint → tareas → estado)?
 ¿O prefieres que lo conecte a tus capturas?
 
+Gracias por el comentario. Vamos paso a paso con lo que ya tienes en tus capturas para mostrarte exactamente dónde ver tu Sprint y Taskboard, usando tu pantalla número 5 (donde dice "Sprints"):
+
+
+---
+
+✅ ¿Dónde ver el Sprint y tu Taskboard?
+
+En la captura 5, estás exactamente en el lugar correcto:
+
+🔎 Ruta visible en la captura:
+
+Azure DevOps > axaim > AXAIM > Boards > Sprints > 
+TP Non-Transaction Regulatory Reporting > Taskboard
+
+Justo ahí ya estás viendo el Sprint actual: Sprint 25.2.3 (16 juin - 4 juillet).
+
+🔹 En la parte derecha dice:
+
+16 juin - 4 juillet
+3 work days remaining
+
+Esto confirma que ese es el sprint activo.
+
+
+---
+
+📌 ¿Dónde está el Taskboard?
+
+Ya lo estás viendo en esa misma captura. Es esta vista con columnas:
+
+New
+
+Active
+
+On-Hold
+
+Resolved
+
+
+Y dentro ves los ítems como:
+
+214576: As a PO, I want the priority scope...
+
+163774: As a PO, I want to align...
+
+
+🔄 Puedes mover las tarjetas entre columnas para cambiar su estado (igual que en JIRA).
+
+
+---
+
+📥 Ver tus tareas solamente
+
+Haz clic arriba en:
+
+Person: All ▼
+
+Y selecciona tu nombre (por ejemplo: Romero Arley o tu login).
+
+Así solo verás lo que está asignado a ti en el sprint actual.
+
+
+---
+
+💡 En resumen:
+
+Ya estás en el Taskboard del Sprint actual (Sprint 25.2.3).
+
+Lo que ves son las historias activas clasificadas por estado.
+
+Puedes filtrar por tu nombre y mover las tareas según el avance.
+
+Si haces clic en una tarjeta, se abre y puedes ver la descripción, tareas asociadas, comentarios, etc.
+
+
+
+---
+
+¿Quieres que te prepare un pequeño vídeo o diagrama con este flujo para que lo tengas de guía rápida?
+
+
 
