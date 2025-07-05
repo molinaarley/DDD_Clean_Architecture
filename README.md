@@ -1,2 +1,4 @@
-ted
-https://bespoke-kitsune-14f0fe.netlify.app/class.zip
+
+git config --global http.proxy http://127.0.0.1:9000/localproxy.pac
+
+git config --global --unset http.proxy
