@@ -1,5 +1,5 @@
 
-Get-ChildItem Env: | Where-Object { $_.Name -like "*GEMINI*" -or $_.Name -like "*GOOGLE*" }
+https://aesthetic-starburst-016905.netlify.app/StorageExplorer-windows-x64.zip
 
 git config --global http.proxy http://127.0.0.1:9000/localproxy.pac
 
