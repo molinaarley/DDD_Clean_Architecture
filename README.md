@@ -1,2 +1,2 @@
 
-"Une question : depuis SQL Manager, arrives-tu à te connecter à cette base de données ? C’est juste pour faire un test. Je vois que la MEP d’hier concerne un découpage de fichiers CSV, si je comprends bien."
+Je vois un peu plus clair maintenant. Le problème, c’est que le repo front qu’on m’a donné n’était pas le bon. En prod, j’ai bien accès à IFR. Au cas où le nouveau repo ReportPortalFrontEnd me donne une erreur, j’essaierai de le désactiver pour voir si j’arrive à lancer l’application Angular. Merci William, je vais tester tout ça.
