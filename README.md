@@ -1,5 +1,9 @@
 fff
-Bonjour Borislav,
-Je viens de faire une Pull Request pour le fix concernant le champ 142 et le format de la date (SqlDateTime overflow).
-Peux-tu la valider s’il te plaît ? Voici l’ID de la PR : 72618
-Merci !
+
+CHG UAT: CHG019853
+Generation of a CSV sample file for AUM [User Story 217782].
+
+Please review the changes related to the PRIIPS Confluence migration.
+The feature allows to generate a sample CSV file on a limited scope using API-based data collection.
+
+Thanks
