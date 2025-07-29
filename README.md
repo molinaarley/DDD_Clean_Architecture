@@ -1,10 +1,10 @@
 
 Bonjour,
-
-Développeur full stack spécialisé en CRM sur mesure, je suis très intéressé par votre projet. Je peux vous proposer une solution bien plus professionnelle qu’Airtable, avec interface claire, automatisations (calculs de commissions, suivi de devis, validation, etc.) et formulaire intégré pour vos partenaires.
-
-Avant toute estimation, je vous propose un échange rapide pour bien comprendre vos besoins fonctionnels et techniques.
-
-Disponible à votre convenance.  
-Cordialement,  
-Arley Romero
+Développeur full-stack expérimenté (.NET + Angular), je vous propose de réaliser votre MVP Partnexx sous 1 à 3 mois.
+Stack : .NET 6/8 (API REST), Angular 16+, SQL Server/PostgreSQL, Authentification sécurisée (JWT), responsive (desktop + mobile).
+Fonctionnalités : profils utilisateurs, recherche avancée, messagerie, tableau de bord, espace admin.
+Architecture évolutive, code maintenable, possibilité d’évolution vers app mobile.
+Disponible rapidement, je suis ouvert à un échange téléphonique pour discuter du projet.
+Bien à vous,
+Arley Romero Molina
+📞 +33 6 49 10 11 23
