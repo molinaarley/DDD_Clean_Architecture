@@ -1,11 +1,11 @@
 
 Bonjour,
 
-Développeur full stack (spécialisé en .NET et Angular), j’ai aussi de l’expérience avec les systèmes de chat en temps réel (chatbot, WebSocket, API IA comme ChatGPT, etc.).
+Au lieu de faire la saisie manuelle, je vous propose une solution automatisée : un programme sur mesure qui remplit les fiches produits Prestashop automatiquement, en suivant les étapes actuelles de votre opératrice (titre, description, prix, stock, etc.).
 
-Je suis intéressé par votre projet de MVP pour agents immobiliers. Avant de vous faire une proposition précise, je souhaiterais connaître le type d’application (web, mobile, autre) et les fonctionnalités clés que vous souhaitez rendre opérationnelles.
+Cela vous fera gagner beaucoup de temps et évitera les erreurs de saisie. Le programme peut même importer les produits depuis un fichier Excel, CSV ou une base externe.
 
-Disponible rapidement pour en discuter.
+Je suis dispo pour en discuter et faire une démonstration simple.
 
 Cordialement,  
 Arley Romero
