@@ -1,1 +1,11 @@
-https://www.linkedin.com/in/arley-romero-molina-973325268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+Bonjour,
+
+Développeur full stack expert en récupération de données via API, structuration SQL/MariaDB et automatisation, je suis très intéressé par votre projet.
+
+Compte tenu du volume (7500 endpoints) et des exigences (mise à jour, reprise, structuration), il me semble essentiel de discuter d’abord des détails techniques et du périmètre afin d’estimer précisément le temps et le budget nécessaires.
+
+Je suis disponible rapidement pour un échange.
+
+Cordialement,  
+Arley Romero
