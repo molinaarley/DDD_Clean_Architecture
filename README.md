@@ -1,11 +1,11 @@
 
 Bonjour,
 
-Développeur full stack expert en récupération de données via API, structuration SQL/MariaDB et automatisation, je suis très intéressé par votre projet.
+Développeur full stack spécialisé en .NET, je suis très intéressé par votre projet de récupération de données via API avec multiples endpoints.
 
-Compte tenu du volume (7500 endpoints) et des exigences (mise à jour, reprise, structuration), il me semble essentiel de discuter d’abord des détails techniques et du périmètre afin d’estimer précisément le temps et le budget nécessaires.
+Je propose de développer une solution fiable en .NET pour collecter, structurer et stocker les données dans MariaDB, avec gestion de l’historique, reprise après arrêt, et respect des limites d’appel API.
 
-Je suis disponible rapidement pour un échange.
+Avant toute estimation, je recommande un échange pour clarifier le périmètre, les formats et le volume. Disponible rapidement pour en discuter.
 
 Cordialement,  
 Arley Romero
