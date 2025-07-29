@@ -1,11 +1,11 @@
 
 Bonjour,
 
-Développeur full stack spécialisé en .NET, je suis très intéressé par votre projet de récupération de données via API avec multiples endpoints.
+Développeur full stack (spécialisé en .NET et Angular), j’ai aussi de l’expérience avec les systèmes de chat en temps réel (chatbot, WebSocket, API IA comme ChatGPT, etc.).
 
-Je propose de développer une solution fiable en .NET pour collecter, structurer et stocker les données dans MariaDB, avec gestion de l’historique, reprise après arrêt, et respect des limites d’appel API.
+Je suis intéressé par votre projet de MVP pour agents immobiliers. Avant de vous faire une proposition précise, je souhaiterais connaître le type d’application (web, mobile, autre) et les fonctionnalités clés que vous souhaitez rendre opérationnelles.
 
-Avant toute estimation, je recommande un échange pour clarifier le périmètre, les formats et le volume. Disponible rapidement pour en discuter.
+Disponible rapidement pour en discuter.
 
 Cordialement,  
 Arley Romero
