@@ -1377,3 +1377,17 @@ Je viens d'effectuer le virement de 600,00 €.
 A bientôt.
 [16:06, 30/07/2025] Saya: Merci tu eres muy buena muy buena 🤣🤣🤣🤣🤣
 [16:07, 30/07/2025] Tata Made: Jajajaja
+
+con marion =>[17:35, 26/03/2025] Marion Cramier: Merci pour le virement ! Par contre t’es sûre que t’as bien pris que les trucs qui étaient pour toi sur le ticket ? Je crois que tu m’as trop envoyé, j’avais aussi acheté des trucs pour moi !!
+[17:37, 26/03/2025] Saya: Ah j'en sais rien g vu 16,30 g arrondi. Un grand merci louloutte. 🥰🥰🥰🥰
+[17:51, 26/03/2025] Marion Cramier: De rieeeen !! Bisous
+[15:56, 31/03/2025] Saya: Louloutte d'amour, je viens de voir que j'ai deux places UGC qui se periment today. Tu les veux?
+[16:01, 31/03/2025] Marion Cramier: Hello, non merci c’est gentil !
+[16:05, 31/03/2025] Saya: Je viens de gouter le thé au riz soufflé pour la premiere fois. Mon cerveau a explosé ! J'aime vraiment bcp ca
+[20:48, 27/04/2025] Saya: Coucou Marion. Un petit message pour te dire que je tente de venir demain à T2, et toi? 🫣
+[21:53, 27/04/2025] Marion Cramier: Helloooo je suis au T2 demain ! Envoie moi un message sur teams quand tu es dispo si jamais tu viens 😍 bonne nuit bisous
+[09:13, 29/07/2025] Saya: Miss Mariob t déjà en congés?
+[10:28, 29/07/2025] Marion Cramier: Helloooo oui enfin !!! Tu prends tes congés quand cette année ? Faudra quon se voir au T2 en septembre 🤩🤩 je te ferai un point gossip IN groupe (0 gossip pour l’instant j’essaierai dans trouver 😂) bonne journée bisou
+[10:38, 29/07/2025] Saya: Oui je prends les deux premières d'aout pour partir en Espagne. Oui septembre sans faute !!!
+[10:39, 29/07/2025] Saya: Profite de ton repos 😘😘😘😘
+[10:41, 29/07/2025] Marion Cramier: Merci! Bon voyage en Espagne amusez vous bien et à septembre !!! 🤩😘
