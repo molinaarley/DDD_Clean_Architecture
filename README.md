@@ -770,3 +770,610 @@ Y la otra Jheimy no tengo noticias hace rato, que raro…
 [14:29, 30/07/2025] Ari Perso: Ya la contacte y no responde. 
 Deja, si Erica no es recomendable no gracias 😅
 [15:12, 30/07/2025] Saya: Ella limpia pero osvi, yo y hasta arley, no hemos quedado satisfechos. Yo la cojo pa planchar nada 
+
+conversacion con la hermana =>[11:42, 02/06/2025] Tata Made: Pero casi no puedes caminar
+[11:43, 02/06/2025] Tata Made: Mañana era solo el dia o varios Dias ?
+[11:44, 02/06/2025] Saya: La manana basicamente
+[11:44, 02/06/2025] Saya: Si si puedo
+[11:45, 02/06/2025] Saya: Seguro no hay cama alla enfrente muchacha. Pero bueno asi voy y duermo y descanso un poco estoy molia
+[12:26, 02/06/2025] Saya: Ya a estas alturas todo esta riquisimo, le hecho sal y ya 😂😂😂😂
+[12:30, 02/06/2025] Tata Made: Pobre
+[12:30, 02/06/2025] Tata Made: Y a que hora te sueltan ?
+[12:33, 02/06/2025] Saya: Ya estoy soltada. Estoy esperando a arley y a este bobo que se le omvido l'arret
+[12:33, 02/06/2025] Tata Made: Ok
+[12:34, 02/06/2025] Tata Made: Perfecto
+[12:35, 02/06/2025] Tata Made: Tu nécessitas à mamaita pa que te ayude o es una carga?
+[12:35, 02/06/2025] Saya: No made tengo k gestionarla demasiado, manana no estaré ahi recuerda y el miercoles ella cuida a los ninos. Traemela el jueves. Yo puedo pasar a verla esta noche
+[12:36, 02/06/2025] Saya: Ya jueves yo estoy entera
+[12:44, 02/06/2025] Tata Made: Eso pensé
+[12:44, 02/06/2025] Tata Made: Pero no vengas yo te la llevo
+[12:44, 02/06/2025] Tata Made: Vomos te vemos y viramos
+[12:50, 02/06/2025] Saya: No pobre made. Yo voy, yo estoy bien, ya habre dormido y todo
+[12:58, 02/06/2025] Tata Made: Bueno y’a veremos
+[14:47, 02/06/2025] Saya: Ya estoy en la casa me bané y voy a dormir. Besitos, vuelvo en si dentro de 2h maximo.
+😂
+[19:47, 02/06/2025] Saya: Made pobrecita. Cuentame cuando hayas llegao a algo
+[19:48, 02/06/2025] Tata Made: No entiendo
+[19:48, 02/06/2025] Saya: Tin tin no esta pa ir pa las urgencias? Como tu estas mata'. Llamame si puedes
+[19:50, 02/06/2025] Tata Made: El quiere que lo lleve Arley
+😒
+[19:55, 02/06/2025] Saya: Ay Dios deja decirselo, esta cansao durmiendo tambien. Yo lo llevo caballero k pena. Por k tin tin no se lo dijo directo?
+[19:55, 02/06/2025] Saya: Deja decirselo
+[03:09, 03/06/2025] Saya: Made has tenido noticias?
+[03:44, 03/06/2025] Saya: Arle estaba ahi abajo trabajando
+[06:52, 03/06/2025] Tata Made: Te fuiste ? Como seguiste del pie? Tintin tiene una tendonitis
+[07:15, 03/06/2025] Saya: Si made arle me lo dijo. Desde esa hora no dormi mas. Venia roncando en el uber. Llevue ahora mismo voy a entrar. Y aqui no se como se capta ya veremos. Besitos
+[10:55, 03/06/2025] Saya: Me autorizaron a desayunar 🙏🙏🙏
+[10:56, 03/06/2025] Tata Made: Pa du escopeta
+[11:26, 03/06/2025] Saya: Voy a empezar a caminar 5km todos los dias como antes. Tenia pensao venir a quejarme de mi peso en esta cita porque estaba en 71, y del sabado a hoy con la sobrecarga de cortisol estoy en 73 😱😱😱😱😱
+[14:01, 03/06/2025] Saya: Ya me estoy desesperando, esa singa' doctora donde esta? Como diria mi mama 😂😂😂😂😂
+[14:16, 03/06/2025] Tata Made: Todabia estas alla ?
+[14:18, 03/06/2025] Saya: Si made ya forme un escandalo !
+[14:18, 03/06/2025] Saya: Le dije k voy a esperar 15 min maximo.
+[14:20, 03/06/2025] Tata Made: Uyuyuiii
+[14:20, 03/06/2025] Saya: Esto siempre me hace reir
+[14:21, 03/06/2025] Saya: Made termine 12:40. Se fueron a almorzar, y me hablaron como que "patientez c pas pret" g rien a foutre vous m'envoyez ca par la poste. 14h30 je pars et tant pis pour l'ordonnance.
+[14:23, 03/06/2025] Saya: Yo veo k lo de mi pie esta desapareciendo ya made.
+[14:34, 03/06/2025] Saya: Ya me estoy desesperando, esa singa' doctora donde esta? Como diria mi mama 😂😂😂😂😂
+[09:37, 05/06/2025] Saya: Terminé. Que alivio. Me llenaron una declaracion papel y la envian a no se donde y la saisissent ellos. Dice k todos los independants tienen ese problema porque agregaron des cases qui vont a l'urssaf y a la cnav y que c le bordel total. Que c'est normal k estuvieramos bloqueados. Entonces el calculo y el monto nos llega en agosto y no asi directo como cuando uno lo hace en ligne.
+Me confirmo k ya arley pago las dividendes, k solo pagara impot dur la fiche de paye k tuvo en el 2024 deduciendo lo k ya te prelevaron a la source. Fin fin todo bien pero se demora la cosa. Pero ya esta resuelto. Manana es la fecha limite
+[09:40, 05/06/2025] Saya: Sali y la cola es como de 100 personas 😱
+[18:11, 05/06/2025] Saya: Nadie responde alla y estoy demayandome, tengo k ir a acostarme a ver, yo creo k tengo k subir el cortisol 🫣
+[21:27, 05/06/2025] Tata Made: Mi aparato de la précison no finciona bien
+[21:27, 05/06/2025] Tata Made: Y no tengo pilas pa cambiarla
+[21:32, 05/06/2025] Saya: Ya voy
+[21:32, 05/06/2025] Tata Made: 138 con 59 y 132 de pulsationes
+[21:32, 05/06/2025] Tata Made: Ella no se tomo todas las pastillas es imposible
+[21:32, 05/06/2025] Saya: No la tiene alta y el pulso si lo tiene rapido
+[21:33, 05/06/2025] Saya: Es mentira no cojas mas lucha con esa vieja hoy. K se acueste y manana sera otro dia yo la recojo. Yo la oi de lo mas fuertecita ahorita. Esta asi lela porque esta cansa' ya del final del dia
+[21:34, 05/06/2025] Tata Made: Bueno chao.
+[22:06, 05/06/2025] Saya: Tengo mucho dolor de cabeza voy a cerrar los dos ojos
+[22:06, 05/06/2025] Tata Made: Tomate la precion pero pueden ser la mestruation
+[22:30, 05/06/2025] Saya: Si. No tengo la presion alta pero tengo un poco de stress. Ya voy a dormir
+[06:04, 06/06/2025] Saya: Buenos dias made. Hoy es ese dia de menstruacion en el k no puedo abrir los ojos de la migrana. Estoy despierta desde las 4 y ademas con una cosa rara k es k me he levantado como 4 veces a orinar una cantidad !
+
+Bueno al grano tome cafe y dolipran ahora y voy a ponerme el hielo. 
+
+Kizas lo mejor es k recoja a mi mama cuando tu estes aun ahi pa recoger bien los medicamentos y todo. Si no guiame tu. Ya yo estoy despierta en tout cas.
+[06:05, 06/06/2025] Tata Made: Bueno yo salgo de aqui a las 7y 10 pienso. Porque asi deja a los niños en la escuela
+[06:05, 06/06/2025] Tata Made: Voy a despertar a mamaita pa que este lista entonces
+[06:19, 06/06/2025] Saya: Ah no vi tu llamada disculpa porque tenia los ojos cerrados, esta bien. Apenas este lista me dices. A las 7 puedo estar alla sin problemas.
+[06:40, 06/06/2025] Tata Made: Y’a esta lista mimi pero puedes venir à las 7 tranquila
+[06:40, 06/06/2025] Saya: No no voy ahora. Ya me estoy poniendo los zapatos
+[12:59, 06/06/2025] Saya: Yo pienso k realmente no esta bien de la cabeza y como uno no es psiquiatra y no sabe como reaccionar, si no nos amarramos los pantalones pa NO hacerle caso, nos vamos a fundir.
+[13:04, 06/06/2025] Tata Made: Esta mucha mas fundia ultimamente
+[13:05, 06/06/2025] Tata Made: Tienes que redoblar fuerza porque a veces son but es de fundirte mismo si yo se que no es a drede
+[13:08, 06/06/2025] Saya: Si, uno entiende k a drede no puede ser, pero a la vez es de esos locos k parece k te esta respondiendo a lo k tu estas hablando. Tu ves uno como nana anda asi hablando solo y ya tu ves k ni te ve. No, esta parece k esta aqui pero no esta. En el fondo me da lastima, como ha podido terminar asi chica?
+[13:10, 06/06/2025] Saya: Ahora bajo y me dijo k le diera media naranja k se estaba desmayando. Le digo k yo tengo comida, k por k no habia venido antes. Le sirvo y me digo ahora te traigo el agua. Todo bien. Estabamos solas.
+
+Entre tanto llega xiomara y se me olvida darle el agua. Y digole amablemente : ay mami disculpa se me olvido el agua. Y dice : y la falta k me hacia, casi me ahogo
+
+😬😱😬😱😳😳😳
+
+Digole mami, nadie te oyo ni toser, pero bueno ya k estas ahi coge el agua ya tu. Y la miro y estaba con la risita esa. Bueno. Ya ahi me dije k cuerda no esta
+[13:13, 06/06/2025] Saya: Pero cuando esta xiomara si se extrema y empezo:
+
+No se por k tenia tanta hambre porque made me dio almuerzo antes de venir p'aca.
+
+Digole ah mami almuerzo no pudo ser porque yo te recogi a las 7 asi que cuando mas desayuno.
+
+Y me dice si, ella me dio carne esta manana. Hizo una pausa y dijo : salaisima k estaba ademas no habia quien se la metiera.
+
+🤬🤬🤬🤬🤬
+
+Y eso me desperto lo del arroz del otro dia y la mire atravesao, xiomara estaba de espalda, y le senale con el dedo que subiera y se quitara de alante de mi.
+
+Ya te digo, ella esta cogiendo mucho aire pero yo le voy a dar un paron con una amenaza de ida pa cuba sin regreso, lo cual es mentira, pero kizas se acotege un poco.
+[13:13, 06/06/2025] Saya: Como les esta iendo por alla?
+[13:23, 06/06/2025] Tata Made: Pero Saya eso es mentira porque le pregunte si queria desayunar y me dijo que no ella hoy ni ha comido.
+[13:24, 06/06/2025] Tata Made: Ayer no hubo carne era pollo y no estaba salao. Esta loca inventa de todo.
+[13:25, 06/06/2025] Saya: Ves?
+Ahora te digo : si desayuno. Yo le preparé sus pastillas y le di leche con café y le propuse pan con jamon y queso y me dijo k no k estaba llena
+[11:47, 09/06/2025] Saya: Made
+[11:47, 09/06/2025] Saya: J'ai craqué 😂
+[11:48, 09/06/2025] Saya: Te llevo a mamaita dentro de 1h sin almorzar pero desayuno 10h30
+[12:07, 09/06/2025] Tata Made: Esta bien
+[18:24, 09/06/2025] Saya: Made ya salimos del cine. Cuando estemos llegando te aviso.
+[18:25, 09/06/2025] Tata Made: Ok
+[18:41, 09/06/2025] Saya: Pero no hemos salido porque Nolan esta comiendose un helado. Lo de peinarme lo ves posible o estas ya cansada?
+[13:31, 13/06/2025] Saya: Made pa mi papa no compres nada. Yo te voy a dar lo k le tienes k dar 😂
+😂
+[14:24, 13/06/2025] Tata Made: Pero hay una fiesta ?
+[14:24, 13/06/2025] Tata Made: Yo estoy tan casada realmente el mejor regalo que les puedo hacer es dormir 😂
+[14:33, 13/06/2025] Saya: Estoy en reunion. Si hay una fiesta, la cual es importante para Arley no se la puedo anular
+[14:33, 13/06/2025] Tata Made: Yo llame son querer
+[14:34, 13/06/2025] Saya: Ok
+[17:40, 13/06/2025] Tata Made: Es El domingo? O en sabado ?
+[17:41, 13/06/2025] Saya: Domingo siempre. Asi duermes el sabado
+[00:25, 15/06/2025] Tata Made: Cuanto es babou
+[00:36, 15/06/2025] Saya: No se made, manana te digo. Deje el ticket alla abajo
+[12:14, 15/06/2025] Saya: Made no tienes papel de regalo alla?
+[12:14, 15/06/2025] Saya: O un bolsito?
+[12:17, 15/06/2025] Saya: Ya encontré algo 😂🫣
+[12:51, 16/06/2025] Saya: 17 y pico. Redondea a 17
+[19:44, 16/06/2025] Tata Made: Pa cual lo mando Saya ?
+[20:12, 16/06/2025] Saya: Cualquiera.
+[20:37, 16/06/2025] Saya: Made no has dado con la mujer del empleo?
+[20:40, 16/06/2025] Tata Made: Hoy no pude porque esta l’ursaff alla y estaban reunidos.
+[21:02, 16/06/2025] Saya: Ah si esa urssaf no sale de alli 😬
+[22:16, 16/06/2025] Tata Made: Porque hay varias empresas ahi
+[11:00, 17/06/2025] Saya: Me llevo a bury y thiago a un spectacle le petit prince le 29/6 a 15h30. Salimos 13h30 de aqui.
+[12:25, 17/06/2025] Tata Made: D’accord
+[12:39, 17/06/2025] Tata Made: Que edad tiene tu papa Saya
+[12:39, 17/06/2025] Tata Made: Ella me dijo que si el tiene mas de 60 ans c’est non lo cogen
+[12:40, 17/06/2025] Tata Made: Que esta muy Mayor que los viejos que estan ahi y’a estaban de antes
+[12:41, 17/06/2025] Saya: Ah ya. No no made el tiene 73.
+[13:08, 17/06/2025] Tata Made: Esta muy Mayor
+[13:08, 17/06/2025] Tata Made: Me dijo ademas que es casi seguro que nadie lo coja
+[13:17, 17/06/2025] Saya: Exacto
+[18:18, 17/06/2025] Saya: Me aumentaron 2700 eur, 3,2% con todo el blabla ambiente pero yo le dije k gracias. K yo no pedi nada este ano pero k se preparen el ano k viene cuando yo termine de ponerme au point sur l'ia act 😂😂😂😂
+[18:18, 17/06/2025] Saya: G rien a foutre el ano que viene me pagan 80k o no me quedo aqui, k el ano que viene eso va a estar al polulo atras de mi, yo lo sé. Mismo puedo irme a une boite de consulting a cogerme la tete a 90k tranquila. Tranquila no es 😂😂😂😂 pero bueno si ahora estoy en 72,7 con los +18 puedo comprar euphytose, psy y massages aux huiles chaudes 😂😂😂😂😂 al hammam no puedo ir yo sé 😂
+[18:31, 17/06/2025] Tata Made: Maman elle demande où sont las pastillas de Aya
+[18:33, 17/06/2025] Saya: Hein. G pas compris
+[19:30, 19/06/2025] Saya: Made sali a caminar. Mira donde me estaba esperando tu mama 😂😂😂😂
+[20:42, 19/06/2025] Tata Made: Pff
+[22:37, 19/06/2025] Saya: 😂😂😂😂😂😂😂
+[09:46, 20/06/2025] Tata Made: Saya necesito los mas rapido que tu puedes las tes ultimes quittance de loyer stp stp
+[10:53, 20/06/2025] Tata Made: Merci
+[08:37, 21/06/2025] Tata Made: Llevaselos sin el carton
+[08:37, 21/06/2025] Tata Made: Todo el mi do bota el carton
+🤞
+[08:43, 21/06/2025] Tata Made: Asi mismo
+[08:44, 21/06/2025] Tata Made: Porque te imaginas si guardas l carton de todo lo que compras
+[16:03, 21/06/2025] Saya: Regresamos ahora. Y tu?
+[16:49, 21/06/2025] Tata Made: Acabamos de llegar
+[17:25, 21/06/2025] Saya: Viste k calir?
+[17:56, 21/06/2025] Tata Made: C’est trooop no en Cuba
+[18:01, 21/06/2025] Tata Made: Jajajajjaa literal
+[20:18, 21/06/2025] Tata Made: https://youtu.be/YpoUzo-CflQ?si=j-U8B2aXQweLjUOg
+[20:24, 21/06/2025] Saya: Pshipt
+[20:24, 21/06/2025] Tata Made: Jajajjaaja
+[21:50, 21/06/2025] Saya: Made puedes arreglarme la peluca manana please?
+[23:41, 21/06/2025] Tata Made: Si claro
+[23:45, 21/06/2025] Tata Made: Gracias Saya por hacer el tramite
+[23:51, 21/06/2025] Tata Made: https://www.instagram.com/reel/DEV0kojsPmI/?igsh=MWllc2s3ZWwxdWd2NA==
+[23:52, 21/06/2025] Tata Made: Estas dormida ??
+[23:52, 21/06/2025] Tata Made: Entra en los comentarios y mira el emoji que te propone Instagrama
+[23:53, 21/06/2025] Tata Made: Que hp es el argorismo
+[23:58, 21/06/2025] Saya: https://www.instagram.com/reel/DKr6TV_Mjw_/?igsh=MW95czliN2l3bXc5Zw==
+[23:58, 21/06/2025] Saya: Algoritmo made 😂
+[00:00, 22/06/2025] Tata Made: Ah bueno alguien le puso el dedo
+[00:00, 22/06/2025] Tata Made: Que bien gracias señor
+[00:01, 22/06/2025] Saya: 🙏🙏🙏🪒🪒🪒
+[00:01, 22/06/2025] Tata Made: https://www.instagram.com/reel/DG6_k57RnDI/?igsh=MWRuOHNpODltZXAxbw==
+[00:01, 22/06/2025] Tata Made: Como no pedi esto por dia de las madres
+[00:02, 22/06/2025] Tata Made: Es El corrector 😂😂😂
+[00:02, 22/06/2025] Saya: Bien vu 😂😂😂😂
+[00:19, 22/06/2025] Saya: https://www.instagram.com/reel/DGodcAQy6fA/?igsh=bDIwczRuZGZ1YXVx
+[00:19, 22/06/2025] Saya: Lease thiago 😂😂😂
+[00:20, 22/06/2025] Tata Made: Jajajajaja
+[00:20, 22/06/2025] Tata Made: Como le decimos
+[00:22, 22/06/2025] Tata Made: 😂😂😂
+[00:23, 22/06/2025] Tata Made: Ese papa soy yo
+[00:23, 22/06/2025] Tata Made: Jajajajaja
+[00:23, 22/06/2025] Saya: https://www.instagram.com/reel/DLI_FvES7ob/?igsh=MWNkM255aXd2dXZvcA==
+[00:24, 22/06/2025] Tata Made: Thiago tiene que ir con si regalo y su vela 😂😂😂
+[00:29, 22/06/2025] Saya: Excelente idea
+[06:49, 22/06/2025] Saya: Saya dice yudilma que si le puedes mandar con Perry Perry 30 € porque ya habló con un agente ahí en el registro civil que van a resolver ya el lunes con los sellos esos de $5 y aquí no lo hay bueno ella te irá mañana
+[06:50, 22/06/2025] Saya: Ese perry perry pa llevarte 30 (hasta 100) cobra 10. Se va el 25. Mejor enviarlos por sendvalu
+[07:56, 22/06/2025] Tata Made: Como hago pa enviarlo
+[08:04, 22/06/2025] Saya: Con perry perry o con sendvalu?
+[08:05, 22/06/2025] Saya: Voy al gimnasio y a caminar.
+[08:09, 22/06/2025] Tata Made: Con sendvalu
+[08:12, 22/06/2025] Saya: En los dos casos puedes pasar por mi pero espera k yudilma se despierte porque por sendvalu seria en pesos cubanos, le pregunte k me confirme si en pesos cubanos esta bien
+[09:04, 22/06/2025] Saya: https://espacepatient.cerballiance.fr/action/result/af45ff08-0a44-496f-a1ea-66607cee5c1f/Cerballiance_Res_af45ff08-0a44-496f-a1ea-66607cee5c1f.pdf
+[10:38, 22/06/2025] Saya: Perry perry dice k son 30 eur cada documento. Cuando esten listos pa traerlos para aca.
+😒
+[12:56, 22/06/2025] Tata Made: Deja ir a bucar el chisme completo
+[18:17, 22/06/2025] Tata Made: Saya la peluca ???
+[18:17, 22/06/2025] Tata Made: Se me paso por completo
+[18:18, 22/06/2025] Saya: No a mi no pero no he podido poner los pies en el piso todavia sigo tirando hasta donde se pueda
+[18:20, 22/06/2025] Tata Made: Esta pégada todabia ?
+[18:27, 22/06/2025] Tata Made: https://www.instagram.com/reel/DJ3BDyRNvHH/?igsh=MWN5ZXQxMjhwNjdkYw==
+[19:00, 22/06/2025] Saya: Atras no
+[19:00, 22/06/2025] Saya: Made tu mama no dejo su cable y cargador en tu casa?
+[22:26, 22/06/2025] Saya: Made ya le envié el dinero a yudilma me salio en 39,71
+Puedes redondear a 40 😂
+[22:28, 22/06/2025] Saya: Mira k bellos
+[00:53, 23/06/2025] Tata Made: Bellos.
+[00:53, 23/06/2025] Tata Made: Pa que cuenta ?? Gracias Saya
+[07:20, 23/06/2025] Saya: Pa cualquiera muchacha
+[07:21, 23/06/2025] Saya: Si yo le hubiera dao esa mision a yudilma desde el inicio 🤪. La nairobis todavia esta hablando caca
+[12:54, 23/06/2025] Saya: Made pero tenemos k hacer un point sobre k rib mios tu tienes porque yo te digo cualquiera y despues no se donde aterrizan. Los del detergente de babou no se donde cayeron. Si le estan mandando el dinero a arley, el no me lo da mas 😂😂😂 te voy a mandar un rib unico, borra los otros y guarda ese nada mas 😂😂😂 ponle saya boursorama y asi no lo confundes con el de la renta por ejemplo.
+[12:54, 23/06/2025] Saya: Code B.I.C : BOUS FRPP XXX
+Code I.B.A.N : FR76 4061 8802 6500 0409 7334 982
+Domiciliation : 44 rue Traversière, CS 80134, 92772 BOULOGNE-BILLANCOURT CEDEX, FRANCE
+Titulaire du compte : Mme Sahayaiz ROMERO MOLINA
+Code Banque : 40618
+Code Guichet : 80265
+N° compte : 00040973349
+Clé RIB : 82
+[12:55, 23/06/2025] Tata Made: Espera mori donde calleron los del détergente
+😂
+[12:56, 23/06/2025] Saya: Di tu 😂
+[12:57, 23/06/2025] Tata Made: Boursorama
+[12:58, 23/06/2025] Saya: Ay no no no ay no no no yo no conozco esa cuenta deja buscar. Pero y por k 35? Eran como 17. Me perdi totalmente
+[12:59, 23/06/2025] Saya: Pero donneur d'ordre c moi. Es un giro k yo te mandé a ti
+[12:59, 23/06/2025] Tata Made: Tu a mi
+[12:59, 23/06/2025] Saya: Exacto made de k hablas entonces?
+[13:00, 23/06/2025] Saya: Deja ir a almorzar k hambre tengo
+[13:01, 23/06/2025] Tata Made: Pero quizas no lo hice
+[13:08, 23/06/2025] Tata Made: Bonjour,
+
+Je viens d'effectuer le virement de 50,00 €.
+
+A bientôt.
+[13:08, 23/06/2025] Tata Made: Saya pienso que el otro no lo hice
+[13:13, 23/06/2025] Saya: Ay made por que 50? Eran 40 me vas a fundir 😬😬😬
+[13:13, 23/06/2025] Saya: Ya esta bien asi eso incluye el detergente. Tranquila.
+[13:14, 23/06/2025] Tata Made: No faltan 10
+[13:14, 23/06/2025] Saya: Estoy muerta de hambre le dije a mi mama k le dijera a mi papa k los bisteces estaban descongelandose en el microondas. Error
+[13:14, 23/06/2025] Saya: No se lo dijo made esta mucho peor ahora no sale del cuarto y no friega fijate si esta mal. No hace nada. Cero. Nada. Ni se sirve. Nada. Nada. Nada. Nadaaaa
+[13:15, 23/06/2025] Tata Made: Bonjour,
+
+Je viens d'effectuer le virement de 10,00 €.
+
+A bientôt.
+[13:15, 23/06/2025] Tata Made: Y’a ahora si
+[13:15, 23/06/2025] Tata Made: Es que no es de la misma cuenta
+[13:15, 23/06/2025] Saya: Le voy a quitar todas las k dio el medico de espana y le voy a dar ashwaghanda. Al menos es natural.
+[13:15, 23/06/2025] Saya: No made ya vieja.
+[13:16, 23/06/2025] Tata Made: 40 Yudi
+20 Babou
+[13:23, 23/06/2025] Tata Made: Te llamo sentir de 10mn pa le de mamaita
+[13:25, 23/06/2025] Saya: No se entiende todo pero parece k me vas a llamar. Hasta los 2 pm estoy libre.
+[13:42, 23/06/2025] Tata Made: Jajajaj
+[19:55, 23/06/2025] Saya: Extra extra oye saya ya hicieron los papeles solo faltan los los sellos de $5 y no los entregan en cuanto demos los sellos pero bueno ya están los papeles hechos ya
+[22:33, 23/06/2025] Tata Made: Jajajaj era la pregunta que iva hacer que es eso? 🤣
+[22:34, 23/06/2025] Tata Made: Saya en telefono de mamaita ni funciona ?
+[22:52, 23/06/2025] Saya: Ni se made, ni se. Anoche se lo cargué, no se k hizo. Ahora no le hablo porque estoy pasando el empingue sola. Le dejo la comida hecha y me la encuentro en la cocina preparandose un agua con azucar prieta "pa llenarse un poco porque la carne no se cocino", puerco asao en el airfryer, no se cocino. 
+Le dije k no se como iba a hacer pero k agua con azucar no iba a tomar. Se tomo un yogurt y una compota.
+[23:55, 23/06/2025] Tata Made: Quizas estaba muy duro pa ella ? O Lo cosino alguien que a ella le cae mal? Tu papa o Xiomara
+[00:15, 24/06/2025] Saya: Ninguna de las 3 cosas
+[09:53, 24/06/2025] Tata Made: Esta bien gracias la llamo mas tarde
+[14:40, 24/06/2025] Saya: Saya Solo queda esperar que llegue el dinero para recoger los papeles Ya le vamos a poner los sellos de $5 eso digital
+[14:40, 24/06/2025] Tata Made: 💪💪
+[14:51, 24/06/2025] Saya: 😂😂😂😂😂 yo 42 ahora mismo 😂😂😂
+[16:41, 24/06/2025] Saya: Mira yo en lo que ando
+[16:42, 24/06/2025] Saya: Recadrando a una de mi trabajo, ha pasado un dia y media pero k va, no pude dormir, me decia k no habia razon pa quedarme con to ese veneno yo adentro y ella sin nada.
+[16:45, 24/06/2025] Saya: Cogi 15,5 en mi examen d'ethique de l'IA. Je suis dégoûtée mais bon, j'ai mon diplome qd meme.
+[19:02, 24/06/2025] Tata Made: Felicidades amor
+[19:20, 24/06/2025] Saya: Pship. Gracias 🫣
+[21:20, 24/06/2025] Saya: Tu estas segura made k pal tramite k tu quieres hacer, eso no lleva legalizacion previa en cuba?
+[21:22, 24/06/2025] Saya: Perry perry: habria que darle los papeles en la habana el 27 a mas tardar. Luego va a cuba en julio pero no vira mas asi k es ahora o nunca.
+
+Pero eso conlleva mandar a yudilma a la habana asi volando
+[22:59, 24/06/2025] Tata Made: Hay dios mio pero ella va a ir la habana solo a eso?
+[23:00, 24/06/2025] Saya: Normalmente no porque el 27 es el viernes y ella trabaja
+[23:00, 24/06/2025] Tata Made: Y’a no existe mandarlos por dhl
+🤷
+[23:01, 24/06/2025] Tata Made: Puedes preguntarle eso
+[23:01, 24/06/2025] Tata Made: Una ves hernesto me mando
+[23:01, 24/06/2025] Saya: Manana. En ciego hay dhl?
+[23:02, 24/06/2025] Tata Made: Pero no se si es possible todabia
+[23:02, 24/06/2025] Saya: Quieres su nro?
+[23:02, 24/06/2025] Tata Made: Preguntales a ellos
+[23:02, 24/06/2025] Saya: Que cejas mas bonitas trngo
+[23:02, 24/06/2025] Saya: Pero k sueno
+[23:02, 24/06/2025] Saya: Tengo k dormir
+[23:02, 24/06/2025] Tata Made: Non non
+[23:03, 24/06/2025] Saya: Me meé, nadie responde eso 😂😂😂😂😂
+[23:03, 24/06/2025] Saya: Made cerré los ojos. Lo siento. Manana veo eso
+[23:04, 24/06/2025] Tata Made: Ah eso era lo que ténia que mirar ? Pense que era que estabas dormida
+[11:42, 26/06/2025] Saya: Made acuerdate k este domingo tengo una salida con los ninos al atelier des lumières a 15:30 (daniela y thiago 😂)
+[12:07, 26/06/2025] Tata Made: Ni ellos lo saben
+[12:08, 26/06/2025] Tata Made: Y Naomie ??
+[12:59, 26/06/2025] Saya: No va 😂
+[12:59, 26/06/2025] Tata Made: Pero tu quiero ir con Ella
+[13:00, 26/06/2025] Tata Made: Como es la cosa
+[13:00, 26/06/2025] Saya: Tu?
+[13:00, 26/06/2025] Tata Made: Cuanto cuestan las entrada
+[13:00, 26/06/2025] Tata Made: Si yo vengo
+[13:00, 26/06/2025] Tata Made: Bury me enseño lo que es le va a gustar
+[14:29, 26/06/2025] Saya: Dime lo del museo made k me has dejao preocupa'
+[14:29, 26/06/2025] Tata Made: Deja mirar
+[14:45, 26/06/2025] Tata Made: No no voy se le quitaron las ganas
+[16:30, 26/06/2025] Saya: Me perdi
+[16:32, 26/06/2025] Saya: Por el precio?
+[16:32, 26/06/2025] Saya: Yo te invito
+[16:33, 26/06/2025] Saya: Lo k tenias era k verificar si quedan plazas pa ese horario
+[18:43, 26/06/2025] Tata Made: Mira que stagiaire mas Linda
+[18:47, 26/06/2025] Saya: Ay si
+[22:09, 26/06/2025] Saya: Made viré. Arrastra' del dolor de ovarios. Que tiempo demora el ibuprofeno en hacer efecto? 😱
+[22:09, 26/06/2025] Saya: Hasta cuando es el stage?
+[09:38, 27/06/2025] Saya: Ay made llame a la escuela y efectivamente es hasta el proximo viernes. Pobrecito nolan. Que lastima me da.
+[17:00, 27/06/2025] Saya: Siento una ligera mejoria. Pas ouf mais c deja ca
+[17:09, 27/06/2025] Tata Made: Menos mal
+[17:20, 27/06/2025] Saya: No fui a lo del pomo. Le di el dolipran en un vaso de jugo de manzana y se lo tomo
+[17:20, 27/06/2025] Tata Made: Dura
+[17:21, 27/06/2025] Saya: Tiene 38
+[17:21, 27/06/2025] Tata Made: Ok
+[18:07, 27/06/2025] Saya: Fuimos a caminar por ahi atras, estaba encantada. Yo estoy mucho mejor. Na' que ver con na' k ver. 
+Tomé una pastilla de cafeina, guarana y mate. Una vitamina C, un café et una hydrocortisone complete.
+[18:42, 27/06/2025] Tata Made: Pal carajo
+[22:26, 27/06/2025] Saya: Made ni rembolses nada porque tenemos mas cuentas del indio. Tranquila. Viste k con un solo cubo si alcanzaba? Ha sobrao cantidad
+[05:55, 28/06/2025] Tata Made: Es que al final acuerdate que dieron otro cubo y eso hizo très cubos
+[06:40, 28/06/2025] Saya: Por que estabas despierta 5:55? 🤪
+[06:41, 28/06/2025] Saya: Como evoluciono naomi y su fiebre?
+[06:41, 28/06/2025] Saya: Pa estar enferma se porto muy bien
+[07:18, 28/06/2025] Tata Made: Sigue con fibre pero no se de que es
+😬
+[13:04, 28/06/2025] Saya: Ginkgo Biloba Ginseng | Haute résistance | Ginkgo 9000 mg et Racine de Ginseng Coréen 3000 mg | 180 comprimés végétaliens | Horbaach 
+ https://amzn.eu/d/a8n50xJ
+[15:13, 28/06/2025] Saya: https://youtu.be/1Fus1r1tLgY?si=3w6Xh0omARoEokSi
+[15:14, 28/06/2025] Saya: https://youtu.be/1XuecqyynC4?si=fXAXJEZ0olZICfh1
+[17:59, 28/06/2025] Saya: Made puedo ir a quitarme el pelo ahora? O a que hora?
+[23:38, 28/06/2025] Saya: Resumen que cuando yo salga tengo k decirle a donde voy porque a ella le da un dolor muy fuerte en la vena orta cuando se ve sola aqui
+[23:39, 28/06/2025] Tata Made: En la vena orta
+[23:39, 28/06/2025] Saya: Si made ella le dice la vena orta a la ahorta
+[23:39, 28/06/2025] Tata Made: Tienes que tener cuodado porque ella es la inventora de asmatica cardiaca 😂😂😂😂
+[23:41, 28/06/2025] Saya: Le dije k no voy a vivir como una menor de edad, k si esta despierta viviendo normal le digo k voy a salir pero si esta encerra' salgo y viro y ya. Me dijo k tiene miedo quedarse sola en esta casa le dije k trabaje eso porque aqui nunca le ha pasado nada.
+[23:42, 28/06/2025] Saya: Ha logrado que yo no pueda vivir en paz, si salgo pal trabajo, si salgo al deporte, lo k sea, siempre tengo k estar agita'. Y cuando hay mucha calma aqui ella forma algo porque ese es el modo de vida k le funciona a ella, tanta calma la altera
+[23:43, 28/06/2025] Saya: Como voy a hacer manana? Tendré que llevarmela tambien no?
+[23:44, 28/06/2025] Tata Made: Ah Pero nosotros viramos temprano
+[23:44, 28/06/2025] Saya: Made pero son muchas horas sola sola sola sola aqui. Minimo 4h
+[23:44, 28/06/2025] Saya: Mejor la llevo y andara asi con mala cara pero no con ataques de panico aqui.
+[23:45, 28/06/2025] Tata Made: En tren ??
+[23:45, 28/06/2025] Tata Made: Con la mama de Ariegli y mirar luces 🤔
+[23:45, 28/06/2025] Tata Made: Deja yo me quedo con Ella
+[23:45, 28/06/2025] Tata Made: Nosotras no vamos
+[23:46, 28/06/2025] Saya: Pero made k hago no puedo anular la salida tampoco. Y si tu te quedas naomi tampoco puede disfrutar es mucha resingueta
+[23:46, 28/06/2025] Saya: Yo le voy a decir a mi papa k venga p'aca.
+[23:46, 28/06/2025] Saya: Total a eso hora ella duerme todo lo largo
+[23:50, 28/06/2025] Saya: De todos modos le dije : independientemente de k hoy sali y no te dije a donde iba, no puedes seguir amenazando con cuba porque alla en cuba nadie te va a cuidar mejor k yo, tienes k educarte un poco y dejar de vivir en el aire porque uno tiene una vida muy complicada pa k tu creas k uno sale y entra sin decirte, pa mortificarte.
+[23:53, 28/06/2025] Tata Made: https://www.instagram.com/p/DLDSdUvAc0z/?igsh=MXhkcjNkeXhsdjd2eg==
+[23:53, 28/06/2025] Saya: Made mi papa va a venir. No anules
+[23:54, 28/06/2025] Tata Made: Esta bien
+[23:54, 28/06/2025] Saya: Made la k quiere hacer ejercicios de verdad, no anda con esos gadget 😂😂😂😂 ya no saben k inventar
+[23:55, 28/06/2025] Tata Made: 😂😂😂
+[23:56, 28/06/2025] Saya: Deja tratar de banarme y conciliar el sueno si Dios quiere. Hasta manana. Mi idea es salir de aqui como 13:30 max. En el rer c desde savigny
+[08:13, 29/06/2025] Saya: Es toda la calle
+[09:10, 29/06/2025] Tata Made: Saya nos vemos en savigny a que hora ?
+[09:11, 29/06/2025] Saya: No vienes antes?
+[09:12, 29/06/2025] Saya: Brocante
+[05:50, 30/06/2025] Saya: https://www.instagram.com/reel/DIYP5_tiY1h/?igsh=MWdrNGx2cjY4NTJ6NA==
+[10:10, 30/06/2025] Tata Made: Saya como amaneciste ?
+[10:22, 30/06/2025] Saya: Yo estoy al caer con la regla. Estoy de mal humor pero no es contra nada ni contra nadie, es solo por existir, el cansancio, el calor, el dolorcito de ovarios 😬😬😬😬🫣🫣🫣🫣
+[10:22, 30/06/2025] Saya: Fui al gimnasio por la manana
+[21:25, 30/06/2025] Saya: Un plomb oui.
+[21:38, 30/06/2025] Tata Made: Ah?
+[21:38, 30/06/2025] Tata Made: Saya muchas gracias por la salida de ayer estaba lindo eso.
+[21:39, 30/06/2025] Tata Made: Cuanto puedo mandar para compensar un poco
+[21:55, 30/06/2025] Saya: 500 made con eso ya 😂
+[21:55, 30/06/2025] Saya: No tranquila eso va por mi. Todavia sigo sin entender lo del ticket del rer par contre. K habra pasao ahi? 😂😂😂
+[21:55, 30/06/2025] Saya: Por suerte fue ida y vuelta
+[22:05, 30/06/2025] Saya: Made tu te has echao alguna vez el pegolin ese en el pelo? Es pa saber como te lo quitas. Yo no lo logro
+[22:24, 30/06/2025] Saya: https://www.sortiraparis.com/hotel-restaurant/cafe-tea-time/articles/329960-chapon-ouvre-son-bar-a-esquimaux-100-chocolat-a-paris-17-recettes-glacees-a-decouvrir
+[13:04, 01/07/2025] Saya: Made encontré un dentista de lo mas gentil pa ninos y adultos en savigny en el cabinet ese k esta justo frente a la gare, por donde se cogen las guaguas, frente a ste generale. Lo k me cobro por 2 caries pa nolan y una limpieza 164 euros 🤪🫣😬 pero bueno, buenisimo, a su hora, rapidisimo, to eso lo hizo en 10 min o 15 maximo
+[13:09, 01/07/2025] Tata Made: Pero el de la casa esta bien tambien
+[13:16, 01/07/2025] Saya: Si, el de danielle casanova
+[13:20, 01/07/2025] Tata Made: Lo que me gusta es que es rapido y trabaja bien
+[13:23, 01/07/2025] Saya: El tuyo?
+[13:24, 01/07/2025] Tata Made: Si si
+[13:24, 01/07/2025] Saya: Esta en doctolib?
+[13:24, 01/07/2025] Tata Made: Ah no se
+[06:55, 03/07/2025] Tata Made: Saya Buenos Dias
+[06:56, 03/07/2025] Tata Made: Yo ténia pensai llevar los niños a la escuela pero Thiago no puede ir porque esta con fièvre. Bury tiene una salida con las amigas tu crées que puedes traer a mamaita antes de las once
+[06:56, 03/07/2025] Tata Made: Pa que Bury no tenga que anular la salida
+[06:57, 03/07/2025] Saya: Pienso k habria k llevarla antes de las 9 porque tengo reuniones de 9 a 12. La voy a despertar. Naomi si va a la escuela?
+[06:58, 03/07/2025] Tata Made: Si Naomi si
+[06:58, 03/07/2025] Tata Made: Pero se puede mandar en un uber tambien
+[06:58, 03/07/2025] Tata Made: No tiene qu estar corriendo ahora
+[06:58, 03/07/2025] Tata Made: Yo le cordino con Ella tranquila
+[07:26, 03/07/2025] Saya: Ya le dije
+[07:29, 03/07/2025] Tata Made: ?
+[07:29, 03/07/2025] Tata Made: Viens ahora o viene en uber ?
+[07:32, 03/07/2025] Saya: Ahora no, cuando yo lleve a nolan y antes de las 9 absolument. Daniela va a estar despierta pa abrirle la puerta?
+[07:36, 03/07/2025] Tata Made: Si si
+[08:31, 03/07/2025] Saya: Ya vamos saliendo
+[13:23, 03/07/2025] Saya: Made pero no pueden coger un destornillador y bajar eso del parqueo?
+[13:31, 03/07/2025] Tata Made: No es cualquier destornilladoe
+[13:32, 03/07/2025] Tata Made: Es una cosa espacifica
+[13:32, 03/07/2025] Tata Made: Y ellos digeron que se ivan a coupar
+[14:01, 03/07/2025] Saya: Ellos quienes?
+[14:10, 03/07/2025] Tata Made: Los maridos
+[15:52, 03/07/2025] Saya: Ahhh oh my god !
+[17:43, 03/07/2025] Tata Made: Saya puedes tu recoger a mi mama ?9
+[17:43, 03/07/2025] Tata Made: No se a que hora termino
+[17:43, 03/07/2025] Tata Made: Ni si termino
+😩
+[17:44, 03/07/2025] Saya: A que hora? Me siento un poco mal ahora si no es immediato si
+[17:44, 03/07/2025] Tata Made: Cuando tu quieras ella no sabe nada
+[17:46, 03/07/2025] Saya: Ok
+[17:46, 03/07/2025] Tata Made: Que te pasa ?
+[17:47, 03/07/2025] Saya: No se made un malestar como k me esta dando algo. No se si sera el calor o k, voy a acostarme un ratico
+[18:10, 03/07/2025] Tata Made: Tomate tus médicamentos tambien
+[18:10, 03/07/2025] Saya: Si ya 😭😭😭😭
+[18:59, 03/07/2025] Saya: Amazon ya me dijo k el vendeur tiene k meterse su sofa negro por el c...que lo tiene k venir a buscar a ses frais y rembolsarme. Si el 7 no lo ha hecho, amazon me rembolsa sin retourner el sofa y suprime a ese vendedor de la plataforma
+[19:00, 03/07/2025] Tata Made: Que bien entonces tienes un sofa gratis
+[19:00, 03/07/2025] Tata Made: Y como no te gusta me Lo puedes dar a mi 😂
+[19:00, 03/07/2025] Tata Made: Que si me fiston los negros
+[19:00, 03/07/2025] Saya: Yo no puedo con ese sofa negro. Estoy au bout des larmes.
+[23:16, 04/07/2025] Tata Made: https://www.instagram.com/reel/DLp1NaoMV9w/?igsh=MWpiYmlqdDUyY2h2aw==
+[23:33, 04/07/2025] Saya: https://www.instagram.com/reel/DJ_V3Zpif7m/?igsh=MWd6aXU4cmhtczR3aw==
+[23:33, 04/07/2025] Saya: 😂😂😂😂😂😂
+[00:02, 05/07/2025] Tata Made: https://www.instagram.com/reel/DLqhZPBP_WK/?igsh=MWpkbXZjaGd5cnh6NQ==
+[00:02, 05/07/2025] Tata Made: Tienes que ver este
+[00:02, 05/07/2025] Tata Made: Y despues y’a
+[00:02, 05/07/2025] Tata Made: Lo prometo pero mira este
+[00:03, 05/07/2025] Tata Made: 😂😂
+[00:33, 05/07/2025] Tata Made: https://www.instagram.com/reel/DKckhfsR7Kz/?igsh=Y3VqcnR6cmY4Ynow
+[00:37, 05/07/2025] Saya: 👆👆👆
+[00:37, 05/07/2025] Saya: 👆👆👆
+[00:37, 05/07/2025] Tata Made: Jajajajaja
+[00:37, 05/07/2025] Tata Made: Es manuel chorizo jajajaja
+[00:42, 05/07/2025] Saya: https://www.instagram.com/reel/DGBzHuqSafb/?igsh=c2l2ZXhwMWhkOWRn
+[00:54, 05/07/2025] Saya: https://www.instagram.com/reel/DGY0WfqumUn/?igsh=MTY3M3FrMXMzaThodQ==
+[12:58, 05/07/2025] Saya: Tengo sueno por culpa tuya k me metes en instagram 😂
+[12:59, 05/07/2025] Saya: 😂😂😂😂😂
+[13:04, 05/07/2025] Saya: 😂😂😂😂
+[13:32, 05/07/2025] Saya: https://www.instagram.com/reel/DKChpQnx1j2/?igsh=Z3BwYzNnc3FlenB4
+[17:04, 05/07/2025] Saya: Que hacen? Yo no he podido dormir asi como necesito, dormi 45 min a picotazos y sali peor con mucho sueno y migrana pero bueno todavia tengo mucho por hacer meti ibuprofeno con cafe y aqui voy echando de nuevo.
+[17:06, 05/07/2025] Saya: Tengo la impresion de gastar cientos de euros en comida y no veo nada estructurado en mi casa, siempre me falta algo, la carne me parece k estar a base de pollo y de huevo k es el hijo del pollo o puerco k no es ni bueno pa la salud 🤪🤪🤪
+
+No tengo control sobre esa parte del budget. Como tu ves las cosas?
+[18:51, 05/07/2025] Tata Made: Yo estoy realmente ça dada hoy la Nao la Tengo pegada como chicle
+[18:51, 05/07/2025] Tata Made: No me ha déjàdo descansar
+😔
+[19:08, 05/07/2025] Saya: Como te puedo ayudar?
+[19:09, 05/07/2025] Tata Made: Llevatela una semana
+😂
+[19:09, 05/07/2025] Tata Made: Con Thiago y Tintin merci
+[19:10, 05/07/2025] Saya: Ok mandalos
+[22:22, 05/07/2025] Saya: Las velitas led de action 😂😂😂
+[00:01, 06/07/2025] Tata Made: Que lindas
+[00:02, 06/07/2025] Tata Made: Ahora es que caigo
+[00:02, 06/07/2025] Tata Made: Tu querias que me llevara a mamaita pa quedarte sola avec ton mec 😍😍
+[00:22, 06/07/2025] Saya: Nan tkt pas estoy con la regla
+[00:23, 06/07/2025] Saya: Por lo menos ella no duerme con nosotros como victor y nolan 😂
+[00:24, 06/07/2025] Saya: El weekend k viene vamos a disney con los ninos, necesitariamos dejartela alla. Del 12 al 14 😬🙃
+[00:25, 06/07/2025] Saya: Les places de cinema de mi CE ahora son a 6 eur, yo encuentro eso super caro 😱
+[00:25, 06/07/2025] Saya: Mismo si publico son 14 pero bueno
+[00:28, 06/07/2025] Saya: Made con las plazas de disney de 1 dia, se puede ver el espectaculo por la noche?
+[00:29, 06/07/2025] Tata Made: Si claro
+[00:30, 06/07/2025] Tata Made: Ellos no pasan sacando a la gente lol
+[00:51, 06/07/2025] Saya: No es como pa saber si uno tiene derecho. Ejemplo en futuroscope tienes derecho, asi puedes irte, banarte, comer y virar
+[21:45, 09/07/2025] Saya: Nengre estoy haciendo una formacion Livementor y para el examen me piden un millon de cosas entre las cuales hacer un estudio calitativo, te molestaria responder a este formulario please? Antes del viernes si fuera posible : https://forms.gle/BTnX44XpW1N1JFWS6 Gracias, gracias, gracias
+[23:58, 10/07/2025] Saya: https://www.instagram.com/reel/DKkT1rtxyTH/?igsh=NjNoMmh1OTNkcnIx
+[07:24, 11/07/2025] Saya: Made de amor, el giro no llego, creo k me dijiste instantaneo, a quien se lo habras mandao? 😂
+[08:15, 13/07/2025] Saya: https://youtu.be/TvGjrUqeS2U?si=t-73AGIHTgg1yDM4
+[10:36, 13/07/2025] Saya: Ya van pasando los padres con los hijos amarraos 😂
+[17:27, 14/07/2025] Saya: https://www.facebook.com/share/r/16f8tg3Zv5/
+[17:27, 14/07/2025] Saya: Made ya llegue pero voy a dormir 30 min. De ahi voy y recojo a mi mama
+[14:24, 15/07/2025] Saya: Made tu tienes un ortophoniste?
+[14:38, 15/07/2025] Tata Made: Non super duro tienes que llamar y ponerte en liste d’attente
+[17:46, 15/07/2025] Saya: Made a k hora tu sales del trabajo?
+[17:47, 15/07/2025] Tata Made: 18h30 quizas
+[17:47, 15/07/2025] Saya: Ok
+[18:07, 15/07/2025] Saya: Tu podrias recoger a victor en el boulevard de juvisy? Se esta peinando y yo me tengo k ir pa paris
+[19:00, 15/07/2025] Tata Made: Yo con Don Omar
+[08:10, 16/07/2025] Saya: Made buenos dias. Gracias por tu ayuda ayer.
+Si mi mama quiere venir cuando tu pases pal trabajo k venga si no yo la recojo ahorita cuando vire de dejar a nolan al futbol
+[08:25, 16/07/2025] Tata Made: Recogelas mas tarde
+[08:25, 16/07/2025] Tata Made: Cuando vires de Nolan
+[08:25, 16/07/2025] Saya: Ok deja despertar a ese miliciano
+[09:50, 16/07/2025] Tata Made: El otro dia le décia eso a bury que me voy directo pal infierno que no perdono a nadie
+[09:53, 16/07/2025] Tata Made: Recuerdo que una que otra vez y’a hablaste mal de mamaita y de Thiago alors creo que te vas conmigo 😂😂😂
+[09:54, 16/07/2025] Saya: Ya yo pedi perdon 😂😂😂😂😂
+[09:54, 16/07/2025] Tata Made: Te dejo que en lo que no le voy tengo cantidad de trabajo
+[09:55, 16/07/2025] Saya: Igual y estoy perdia en grigny con lo del futbol de nolan.
+[13:49, 16/07/2025] Tata Made: Le estoy muriendo del sueño
+[14:07, 16/07/2025] Saya: Yo almorcé ahora y tambien me esta entrando
+[00:46, 17/07/2025] Tata Made: https://www.instagram.com/reel/DMIO_lKoJ4T/?igsh=MTZ1a3A5OWs3a24yNQ==
+[00:28, 18/07/2025] Saya: Los analisis: Ya no tengo anemia y todos los resultados estan perfectos pero perfectos. Estuve conversando con mi amigo chatgpt y el piensa k debo conversar con mi endocrina porque el considera k mi media hydrocortisona a 16h30 es demasiado tarde y eso puede estar bloqueandome la perdida de peso y fomentando la grasa abdominal y la bosse de bison. Dice k la gente normal tiene el cortisol casi en cero por la noche pa fomentar el descanso. Manana mismo empiezo sin conversar con nadie a tomarla a 13h30 como antes y si estoy cansa' le soir me acuesto y ya 🤞🤞🤞🤞
+[22:04, 18/07/2025] Saya: Lo bueno es k lo limita a 1 minuto 😂😂😂
+[22:07, 18/07/2025] Tata Made: Pero un minute dura cantidad
+[22:08, 18/07/2025] Saya: Si
+[22:09, 18/07/2025] Saya: Me encanto thiago
+[22:09, 18/07/2025] Saya: Lo amoooo
+[22:09, 18/07/2025] Saya: Voy a dormir
+[23:05, 18/07/2025] Saya: https://youtu.be/I4Ix2HiGRM4?si=rXAfHScGC281rLUu
+[09:10, 19/07/2025] Saya: Thiago reporter 😂
+[09:11, 19/07/2025] Saya: Ese microfono se ve rarito
+[09:11, 19/07/2025] Tata Made: Tu no conoces esa marca
+🤫
+[09:35, 19/07/2025] Saya: Y atras naomi muy concentrada ella 😂😂😂
+[09:36, 19/07/2025] Tata Made: Como luisito séria que es autiste
+[09:36, 19/07/2025] Tata Made: Casi no hablaba tampoco
+[09:36, 19/07/2025] Tata Made: 😂😂😂
+[09:40, 19/07/2025] Tata Made: Pero no me pienso ir sola pal infierno tu te vas conmigo aqui estoy Esperando que critiques a alguien
+[09:40, 19/07/2025] Saya: Date por la boca 😂😂😂
+[09:41, 19/07/2025] Tata Made: Dice Naomie aqui Tata Saya
+[09:41, 19/07/2025] Tata Made: Jajaja
+[09:41, 19/07/2025] Saya: Yo estoy tomando clases con osvaldo
+[09:41, 19/07/2025] Tata Made: Esta escuchando todo
+[09:42, 19/07/2025] Saya: No logro levantarme
+[09:42, 19/07/2025] Tata Made: No me sigas nada
+[09:42, 19/07/2025] Tata Made: Esta gente se despiertan a las 6 de la mañana
+[09:43, 19/07/2025] Saya: Y aqui estar acostada es un peligro, mi marido tiene k dejar el gingibre ya 😂
+[09:43, 19/07/2025] Tata Made: Jajajajajajja
+[09:43, 19/07/2025] Tata Made: Jajajajajajajaja
+[09:43, 19/07/2025] Saya: Voy a levantarme y tomar vitamina c 🤷
+[10:25, 19/07/2025] Tata Made: https://www.instagram.com/reel/DMJGZfBg_PE/?igsh=MXJxeW9sM3F4ZHpsNg==
+[10:26, 19/07/2025] Tata Made: Este vidéo me describe complètemente
+[11:08, 19/07/2025] Saya: No voy a instagram hasta final del mes. Merci pour votre comprehension 😂😂😂
+[11:09, 19/07/2025] Tata Made: Si fieras mas seguido no estibieras asi
+[11:12, 19/07/2025] Saya: No made si fuera mas seguido perderia mi tiempo mas seguido.
+[15:09, 19/07/2025] Saya: 3 de la tarde y no se puede decir k haya hecho nada concreto. Ni he empezado a lavar fijate tu. Pero estoy haciendo un pae de coco para los demas 🙃
+[00:26, 20/07/2025] Saya: https://youtu.be/qefGKvH4ihg?si=ubt1guMOQkCyqNNF
+[22:02, 20/07/2025] Saya: Tu mama es tan chanchullera y tan loca. Viene y me da un beso y me dice : pa despedirme, k la pases bien alla 🫣😳🙃😬😱🤪
+Mami bien alla donde? Te explique k voy al trabajo a trabajar. Dice ah, y de ahi se van p'alla ya? 😂😂😂
+[23:04, 20/07/2025] Saya: https://www.instagram.com/reel/DL_h1a3gH4G/?igsh=ZXR0dnVienc4dTF2
+[00:06, 21/07/2025] Saya: https://www.instagram.com/reel/DLKLZ5PNfMe/?igsh=MXV1dzN3cnNyMGoweA==
+[06:34, 21/07/2025] Saya: Buenos dias made. Es solo para recordarte k le des las pastillas a mi mama. Ellas las tiene en el bolso
+[11:41, 21/07/2025] Saya: Non pero es menos k todos esos. No hay pa menos?
+[11:41, 21/07/2025] Saya: Que abusadores son.
+[11:46, 21/07/2025] Tata Made: Es menos que 2300
+[12:01, 21/07/2025] Saya: Es entre 4000 y 4500
+[12:02, 21/07/2025] Tata Made: 13,80%
+[12:05, 21/07/2025] Saya: Ok gracias
+[12:05, 21/07/2025] Saya: Candelaaaa
+[15:05, 21/07/2025] Saya: Me siento cansada. Me quedan 2 reuniones fuertes. El dia ha sido intenso. No logro concentrarme mas. Tengo deseos de llorar y de dormir.
+[21:17, 21/07/2025] Saya: https://www.instagram.com/reel/DKDJme0o35p/?igsh=MTljNzFkNXhmdjZnag==
+[07:50, 22/07/2025] Saya: Buenos dias made. Recuerda darle las pastillas a mi mama. Yoa recojo apenas me digan. Antes de las 10 o despues de las 11.
+[18:16, 22/07/2025] Tata Made: Y
+[19:12, 22/07/2025] Saya: T ou?
+[07:34, 23/07/2025] Saya: Yo comi pan con picadillo y yo no se por k me cayo tan mal porque mi mama esta bien. Yo me pase la noche con diarreas y deseos de vomitar, casi no dormi nada. Estoy exhausta
+[07:34, 23/07/2025] Saya: Seria el pan y no el picadillo porque mi mama comio arroz picadillo y platanito y todavia esta durmiendo
+[17:54, 23/07/2025] Saya: Hoy por la tarde hice la reunion de 2 a 3 y la k era de 4 a 6 me conecte y le pregunte a los demas si no preferian hacerla la semana k viene 😂😂😂😂 gritaron k si y ya, termine. Ahora a partir de pmanana tengo todo concentrado+++ k ya no podre esquivar mas nada 😂😂😂😂😂
+[22:26, 23/07/2025] Saya: https://www.instagram.com/reel/DLcktCgucYf/?igsh=MTk2cmY3czRkMjdsNg==
+[10:30, 24/07/2025] Saya: Yo le propuse a mi mama llevarla unos dias a Madrid pero no quiso. Se estreso cantidad y se acosto a dormir y todo pobrecita 😂😂😂 no la voy a presionar. Dice k hay k caminar mucho y k prefiere esperar k amado venga aca
+[22:07, 24/07/2025] Saya: Bueno madrid no quiso pero valencia si. Me la llevo con xiomara del 2 al 6. Ver si ustedes la pueden recoger el 6 por la noche en el aeropuerto pero no es obligao, xiomara puede desenvolverse pa un taxi
+[22:08, 24/07/2025] Saya: Tengo k dormir estoy exhausta
+[08:29, 25/07/2025] Tata Made: Buenos dias Saya un saludito rapido antes de que el dia se le ponga mas malo. Estoy débordé en el trabajo. Te llamo este noche cuando termine
+[08:31, 25/07/2025] Saya: Eso mismo estoy mirando. Fuerzas
+[12:09, 25/07/2025] Tata Made: Saya el hermano de mi colega esta en Cuba en la Habana dice
+[12:10, 25/07/2025] Tata Made: Me van a decir la fecha y el hôtel pa ver si alguien puede llevar mi acta de naissance pa que ellos me la traigan.
+[12:11, 25/07/2025] Tata Made: Pero deben virar la semana que viene pienso tu sabes que la gente no va mas de 15 Dias
+[12:33, 25/07/2025] Saya: Yudilma fue la semana pasada, acaba de regresar. Ir a la habana y virar no es tan facil asi porque la gente tiene k jugar con su trabajo y eso pero yudilma si podria hacer el esfuerzo, habria k mirar cuanto es la viazul ida y vuelta 🤪, pero tener claro en k hotel estan y asegurarse de k estaran ahi ese dia convenido
+[12:36, 25/07/2025] Tata Made: Ok le deben responde hoy donde y mas bien si es un sabado
+[12:36, 25/07/2025] Tata Made: Ella trabaja los sabados
+[12:36, 25/07/2025] Tata Made: Si Ella va à la habana la proxima ves que se la lleve a tu hermano al menos y’a estara en la habana
+[12:37, 25/07/2025] Tata Made: Casi todo en mundo pasa por la habana antes de irse
+[12:38, 25/07/2025] Saya: Ella trabaja to los dias.
+[12:39, 25/07/2025] Saya: Y nosotras nos quejamos 😂😂😂
+[12:39, 25/07/2025] Tata Made: En serio?
+[12:39, 25/07/2025] Saya: Excelente idea
+[12:39, 25/07/2025] Saya: Si, en una galletera + lo k aparezca
+[21:18, 26/07/2025] Saya: https://www.instagram.com/reel/DKxLfEAOpV2/?igsh=bnVzc3plcHB3cmll
+[21:46, 27/07/2025] Tata Made: https://www.instagram.com/reel/DMLz1KWR81R/?igsh=MTQ2NTgzbW15ZW9nMg==
+[21:15, 28/07/2025] Saya: Se me quito el dolor de ovarios, deja ver k logro hacer ahora
+[22:41, 28/07/2025] Tata Made: Menos mal
+[22:43, 28/07/2025] Saya: Hice ejercicios 45 minutos.
+[11:07, 29/07/2025] Saya: Je suis énervé. Mis analisis muestran una degradacion notable. Indice de grasa extremadamente alto. Mucho mas k hace un ano. Estoy empinga' porque no he dejado de decirlo a cuanto medico se me para delante, y nadie me hace caso.
+[11:07, 29/07/2025] Saya: 👆👆👆
+[11:07, 29/07/2025] Saya: Mensaje enviado a arley. Saliendo de la densitometrie
+[11:08, 29/07/2025] Tata Made: Hay dios mio
+[11:51, 29/07/2025] Saya: Ya le escribi a la endocrina. Regresa de vacaciones el lunes segun su message d'absence
+[12:31, 29/07/2025] Saya: Made tin tin esta en la casa esta noche?
+[12:32, 29/07/2025] Tata Made: Si Pero no se a que hora termina
+[12:33, 29/07/2025] Saya: Es k quiero invitarlos a todos a comer pescao antes de irnos, esta noche hasta me parecia perfecto
+[13:54, 29/07/2025] Saya: Congri, pescado frito y platanitos maduros fritos
+[14:29, 29/07/2025] Saya: Confirmas?
+[14:29, 29/07/2025] Saya: Dorade royale
+[14:56, 29/07/2025] Tata Made: Mi amor contenta por tu
+[14:56, 29/07/2025] Tata Made: Por ti
+[14:56, 29/07/2025] Tata Made: No puedo ir a comer estoy en sierre de mes no se ni a que hora termino lol
+[10:15, 30/07/2025] Tata Made: Buenos dias Saya, tengo una pregunta ? Tienes dinero en cash en la casa que nécessités meter para el banco yo te hago el giro y tu me das el cash ?
+[10:30, 30/07/2025] Saya: Reunion ahorita te llamo o ve eso con arle please si c urgent
+[10:31, 30/07/2025] Tata Made: No es tan urgente
+[11:17, 30/07/2025] Saya: Cuanto seria? Creo k tenemos 500 o 600
+[11:17, 30/07/2025] Tata Made: 600 esta bien
+[11:18, 30/07/2025] Tata Made: Es la pagar el prêt de mi trabajo pero no puedo sacar de mi cuenta que se ve
+[11:19, 30/07/2025] Saya: Claro. Deja ver con arle. Los buscas hoy? Yo no estoy alla, de todos modos el dinero lo tiene arley
+[11:26, 30/07/2025] Tata Made: Esta tarde paso entonces
+[11:26, 30/07/2025] Tata Made: Pa que cuenta el giro ?
+[11:27, 30/07/2025] Saya: Pa la mia credit agricole
+[11:29, 30/07/2025] Tata Made: Este ?
+[11:33, 30/07/2025] Saya: Yes
+[11:33, 30/07/2025] Saya: Y k motivo le vas a poner 😱😱😬😬😬
+[11:33, 30/07/2025] Saya: Porque lo van a ver igual
+[11:34, 30/07/2025] Tata Made: Pour l’anniversaire de mamaita ?
+[11:34, 30/07/2025] Tata Made: Voyage mamaita Cuba
+[11:53, 30/07/2025] Tata Made: Bonjour,
+
+Je viens d'effectuer le virement de 600,00 €.
+
+A bientôt.
+[16:06, 30/07/2025] Saya: Merci tu eres muy buena muy buena 🤣🤣🤣🤣🤣
+[16:07, 30/07/2025] Tata Made: Jajajaja
