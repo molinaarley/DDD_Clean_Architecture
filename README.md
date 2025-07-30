@@ -1391,3 +1391,535 @@ con marion =>[17:35, 26/03/2025] Marion Cramier: Merci pour le virement ! Par co
 [10:38, 29/07/2025] Saya: Oui je prends les deux premières d'aout pour partir en Espagne. Oui septembre sans faute !!!
 [10:39, 29/07/2025] Saya: Profite de ton repos 😘😘😘😘
 [10:41, 29/07/2025] Marion Cramier: Merci! Bon voyage en Espagne amusez vous bien et à septembre !!! 🤩😘
+
+conversacion con vivian=>[21:52, 02/05/2025] Saya: Manana empiezo el pru. Ya tengo todos los ingredientes k me los trajeron de cuba 🤪
+[21:55, 02/05/2025] Vivian Toral Cot Toral Cot: Dicen que el prú tiene orígenes franceses
+[21:58, 02/05/2025] Saya: Eso mismo oi. Lo k los franceses se olvidaron parece 😂😂😂😂
+[20:49, 24/05/2025] Saya: Claro porque los demas son oVejas del reBano 😂😂😂
+[11:07, 03/06/2025] Saya: Hola querida, mi papa viene el dia 10, de la habana, no de ciego, necesitan k les traiga algo de alla?
+[12:25, 03/06/2025] Vivian Toral Cot Toral Cot: Hola Saya!. Gracias por avisarme. Le dije a Yexy, pero de momento no se me ocurre nada. Te dejo saber de aquí a antes del 10 😉
+[12:25, 03/06/2025] Vivian Toral Cot Toral Cot: Cómo está la tropa tuya?
+[12:27, 03/06/2025] Saya: La tropa bien. Yo hospitalizada desde el sabado con mi sirimba pero la verdad k hacia mucho k no me daba ni mareo, y ahora que? Me pico un mosquito y parece k por ahi se colo algo k me causo fiebre, erupcion en la pierna bueno la total, pero ya sobrevivi, espero recuperarme pronto 🤪
+[12:41, 03/06/2025] Vivian Toral Cot Toral Cot: Uyyy Saya, qué cosa!. Ya estás bajo control, no?
+[12:42, 03/06/2025] Vivian Toral Cot Toral Cot: Y tu papá viene por cuánto tiempo?
+[12:42, 03/06/2025] Saya: Si muchacha bicho malo...
+[12:42, 03/06/2025] Saya: Minimo 4 meses. Mas si se subsiste por si mismo 😂
+[12:44, 03/06/2025] Vivian Toral Cot Toral Cot: Yo estoy sufriendo los casi 10 meses de la madre de Yexy en la casa
+[12:44, 03/06/2025] Saya: Sufrieeendo 😱😱😱😱 ay Dios mio. Les esta trayendo conflictos?
+[12:45, 03/06/2025] Vivian Toral Cot Toral Cot: Ya hubo un clash entre nosotras la semana pasada. Raro que no hubiera pasado antes por el carácter y la falta de educación de la señora.
+[12:45, 03/06/2025] Vivian Toral Cot Toral Cot: "Les" no, "me". Es que no soporto ya sus faltas de modales y de todo.
+[12:45, 03/06/2025] Vivian Toral Cot Toral Cot: Imagínate que me trató (oye esto) de complejista y todo.
+[12:47, 03/06/2025] Saya: Pero vivi tu coges mucha lucha. Ellas son del campo es otra cultura. No se como ayudarte a prendre du recul porque la convivencia funde, en el fondo lo k las mato es k la hermana no viniera. Yo vi a la viejita tranquilita y como me decias k nada mas veia novelas, pshipt mejor muchacha 🤪
+[12:49, 03/06/2025] Saya: Me gustaria k se apaisaran y no se deterioren entre ustedes. K mira todo lo k yo atravesé con ese arley y te digo, no vale la pena desgastar la relacion. Esas madres estan y no las puedes quitar, y todo lo k le hagas le va a doler a yexi, y asi, un circulo vicioso. K dice la propia yexi de todo eso?
+[12:49, 03/06/2025] Saya: Yo me estreso hasta con la mia, y agarrate, es arley quien me regana y me canaliza 😱😬🫣
+[12:57, 03/06/2025] Saya: Oye tu !
+[12:57, 03/06/2025] Saya: Vas a terminar molia 😱
+[12:58, 03/06/2025] Vivian Toral Cot Toral Cot: Prefiero eso que verle la cara a la señora. Se las trae cuando pone cara amarrada y opta por su deporte nacional, ignorar a uno.
+[13:00, 03/06/2025] Saya: Yo si entiendo cada una de tus palabras. El problema de las familias cubanas es complejo y estabilizarse, si se logra, toma anos. 
+
+Toooodas las personas alrededor mio k han tenido a alguien en su casa, frecuentemente es la madre, yo soy el pompon con de todo, pero generalmente es la madre, han terminado fundiendo su matrimonio. Porque convivir de por si es duro ya, y los cubanos como bien dicen son muy intensos. Yo con mi papa casi me fundo tambien. Ahora le dije 4 meses por mi cuenta, pa no culpabilizar cuando se le acabe el plazo. 
+Siempre admiro que tu si sabes poner tus limites ahi donde yo me dejo ahogar sin salida. Ojala logren respirarse ahi el tiempecito k les queda nengre.
+[13:01, 03/06/2025] Saya: Pero a lo mejor es como mi mama, k no esta bien de la cabeza y uno cree k le esta haciendo picuencias a uno 😱
+[13:03, 03/06/2025] Saya: No, tu lo puedes dejar pasar un dia, una visita k viene a tu casa y ya, se fue. Pero sabiendo k eso va a ser todos los diasssss del ano que va. Y de p. tener k ponerte a educarla a estas alturas eso funde a uno, lo normal es k ya lo supieran o k al menos se sintiera el esfuerzo por mejorar. Candela 😱
+[13:07, 03/06/2025] Saya: Imaginate que aqui me pusieron el primer dia a una india k tenia a la hermana cuidandola. Viviaaaaaan comian con la boca abierta y eruptaban comiendo. 😱😱😱😱😱😱 Yo primero traté de comer cuando ellas terminaran porque me daba asco, no podia comer mientras estaba esa funcion andando. Y por la noche ni comi ya, me fundi. Al otro dia las cambiaron pa otra sala porque estaba grave y chica, me senti aliviada. Aunque agarrate me trajeron a una vieja arabe k tanto ella como las hijas gritan gritan gritaaan 😱😱😱😱
+[13:08, 03/06/2025] Saya: Bueno entonces pa las vacaciones y eso como harian?
+[13:08, 03/06/2025] Saya: No se si me dijiste k opina Yexi, acepta lo k tu dices o mas bien se estresa porque es su mama?
+[13:12, 03/06/2025] Saya: No es facil vivian. Eso me revive todo aquello con xiomara. Ya to eso quedo atras pero de milagro, pero en esa epoca uno vive fundio y mal, y como tu dices, tu has luchado mucho tu paz
+[13:16, 03/06/2025] Vivian Toral Cot Toral Cot: Así mismo es
+[21:45, 12/06/2025] Vivian Toral Cot Toral Cot: Hola Saya!. Cómo vas?. Ya recuperaste completo?.
+[21:45, 12/06/2025] Vivian Toral Cot Toral Cot: Y tu papá llegó bien?
+[05:42, 13/06/2025] Saya: Hola querida. Llego con un resfriado k se agarro en el avion porque vino sin abrigo, pshipt. Yo bien ya, tirando. Y ustedes comp van?
+[21:37, 16/06/2025] Vivian Toral Cot Toral Cot: Si resuelvo algo te dejo saber
+[17:30, 21/06/2025] Saya: Vink entraste al grupo de perry perry. Viste k es como una secta y el es el guru mayor? Hay k adularlo y bendecirlo todo el dia 😂😂😂😂
+[17:36, 21/06/2025] Saya: Ay si como le va a tu primo?
+[17:38, 21/06/2025] Saya: Ay si ese estados unidos esta crazy
+[17:42, 21/06/2025] Saya: Ayer yo comi con amy en paris que marelys una muchacha de l'asociacion vino y nos invito pa vernos 🥰
+[17:43, 21/06/2025] Saya: Digole a amy, a ver si organizamos algo "en casa de vivian" 😂😂😂😂❤️ la verdad, puede ser en la mis tambien. Perry perry quiere k organice un picnic aqui en el campo. Deja ver
+[17:48, 21/06/2025] Saya: 🥰🥰🥰🥰🥰
+[17:49, 21/06/2025] Saya: Asi mismo me dijo Arley, k con perry perry no 😂😂😂😂. No lo de tu casa fue hablando con amy. Te imaginas a amy frente al despotismo de perry perry?
+[20:36, 21/06/2025] Vivian Toral Cot Toral Cot: Imposible Amy & Carlos y Perry Perry en el mismo evento 🤣🤣🤣
+[21:23, 21/06/2025] Saya: Ahi estamos todos en el grupo. Los encirculados me caen mal 😂😂😂
+[21:24, 21/06/2025] Saya: Vi el otro dia k tu amiga yairys pario, vaya la hija puso una publicacion en fb.
+[21:24, 21/06/2025] Vivian Toral Cot Toral Cot: Cuál es Leyden?
+[21:24, 21/06/2025] Saya: Una de stgo, muy chusma ella.
+[21:25, 21/06/2025] Vivian Toral Cot Toral Cot: Sí, sí, conocimos al bb. Yo no te hablo de ella pq sé que no hay comunicación entre ustedes y para evitar el chuchuchu.
+[21:27, 21/06/2025] Saya: Si si haces bien. Hasta dudé en decirtelo, de tanto k quisiera borrar esa parte de mi vida, pero ultimamente me sale hasta en la sopa tras tantos meses de olvido. 😬🫣
+[23:06, 21/06/2025] Vivian Toral Cot Toral Cot: Yaneisys en el Palacio de los Matrimonios. Ella hizo los papeles para Héctor Damián (Reboredo su apellido), su mujer y las niñas. Ella pudiera ayudar si se trata solamente de sacar una certificación de nacimiento.
+[23:06, 21/06/2025] Saya: Voy respondiendo segun oigo. Tania se porta muy mal
+[23:12, 21/06/2025] Saya: Manda las fotos de los galones. Me quedo fria k lo mandes con perry perry. No son grandes 😳
+[23:12, 21/06/2025] Saya: Tengo curiosidad porque dices k los compraste en action 🤷
+[23:14, 21/06/2025] Vivian Toral Cot Toral Cot: Jerrican pliable avec robinet Froyak | Action FR https://share.google/zyOClQpdBhgCtwLMK
+[23:14, 21/06/2025] Saya: Pliaaaaable!!! K maravilla deja ver eso. Mira k inventaaaan. No se me hubiera ocurrido
+[23:15, 21/06/2025] Vivian Toral Cot Toral Cot: Merci Yexy que lo ve todo
+[23:16, 21/06/2025] Saya: 2 euros nada mas 🤪
+[23:17, 21/06/2025] Vivian Toral Cot Toral Cot: No jodas
+[23:18, 21/06/2025] Vivian Toral Cot Toral Cot: 🤣🤣🤣🤣🤣🤣
+[23:20, 21/06/2025] Saya: Si y la del copelia es simon reyes creo. Pues vivi no es ni lejos, ella pensaba llevarla desde su casa 😂😂😂😂
+[23:28, 21/06/2025] Saya: Jajajaja se estreso 😂😂😂
+[23:28, 21/06/2025] Saya: Esta loca pero es buenisima 😂😂😂
+[23:29, 21/06/2025] Vivian Toral Cot Toral Cot: Te paso el número de Merline para que la contacte directamente
+[23:30, 21/06/2025] Saya: Si es esa prima
+[23:34, 21/06/2025] Saya: Asi mismo el marido de mi prima me dice eso son 7 mil pesos y yo 😳😳😳 cuantos euros por fin? 😬😬😬
+[23:35, 21/06/2025] Vivian Toral Cot Toral Cot: Estamos en la misma
+[23:47, 21/06/2025] Vivian Toral Cot Toral Cot: Te escribo para que se lo pases a tu prima. 
+Este mismo mensaje se lo paso a Merline:
+
+- buscar el agua en Independencia en casa de nuestra amistad o en la Casa del Agua que es una cuadra más alante
+
+- llevarla para casa de mami 
+
+- serían esas dos tanqueticas de 10 litros cada una (cuando lleguen), mientras serían pomos de agua 
+
+- propongo pagar 300 pesos cada vez que lleve agua (lunes, miércoles y viernes a confirmar con Merline)
+[23:50, 21/06/2025] Saya: Ok se lo paso tal cual
+[23:50, 21/06/2025] Vivian Toral Cot Toral Cot: Merline
+[00:01, 22/06/2025] Saya: Dijo k si. Le dije k llame a merline k voy a dormir 😂😂😂😂😂😂
+[00:03, 22/06/2025] Saya: Coge esta conversacion 😂😂😂😂😂
+[00:03, 22/06/2025] Saya: Que hp es el argorismo
+[00:03, 22/06/2025] Saya: Algoritmo made 😂
+[00:03, 22/06/2025] Saya: Es El corrector 😂😂😂
+[00:25, 22/06/2025] Vivian Toral Cot Toral Cot: 🤣🤣🤣🤣🤣🤣🤣
+[12:47, 22/06/2025] Vivian Toral Cot Toral Cot: Jolie photo en tu perfil WhatsApp 😍
+[12:59, 22/06/2025] Saya: Te quieres casar conmigo 😂
+[23:27, 25/06/2025] Saya: https://www.facebook.com/share/r/16poqVAFfe/
+[20:19, 01/07/2025] Saya: Vivian, a perry perry le queda una maleta a 220 eur. Sale a 10 eur el kg. No quieres k la cojamos compartidamente?
+[21:19, 01/07/2025] Saya: No no, dice k me la aparto 😂😂😂😂😂😂😂
+[21:20, 01/07/2025] Saya: Ahora si estoy buscando una companera
+[21:20, 01/07/2025] Saya: Los de aqui no quieren a la familia. Ni arley ni xiomara quieren mandar nada 😂😂😂
+[21:23, 01/07/2025] Vivian Toral Cot Toral Cot: https://maps.app.goo.gl/pJKt8tnLTEL21Jog6
+[21:23, 01/07/2025] Vivian Toral Cot Toral Cot: Es este hotel 👆🏻
+[21:24, 01/07/2025] Saya: Pero Vivi no puedes celebrarle el cumple a ella sin mi ! Me va a extranar mucho 😂😂😂😂
+[21:24, 01/07/2025] Saya: Se van las 3?
+[21:25, 01/07/2025] Vivian Toral Cot Toral Cot: Sí, qué remedio!
+[21:25, 01/07/2025] Vivian Toral Cot Toral Cot: Loca estoy pq se acabe de ir
+🫣
+[21:26, 01/07/2025] Saya: 📦✈️🇨🇺🚨No olviden estaré recogiendo paquetería hasta el 7 de julio máximo el día 8 en la tarde 🇨🇺✈️📦🚨
+[21:53, 01/07/2025] Saya: Si la maleta es lo k uno quiera, que ademas es una caja, ya el me dijo k la tengo k comprar en brico no se k. Castorama. 
+
+Si, mandame la lista con detalles no sea k yo compre todo el lidl y tu quisieras monop' 😂😂😂 y yo hago eso el sabado y se lo entrego el domingo
+[21:54, 01/07/2025] Saya: No no tengo a nadie en la habana. Mi papa esta aqui y a mi prima no le hablo 😂 y mi hermano bueno, la madre recien llego de argelia, lo tengo olvidado 😂
+[21:55, 01/07/2025] Saya: No planta no, yo no tengo a nadie alla k merezca taaaal atencion 😂😂😂😂
+[21:55, 01/07/2025] Saya: Si la hermana de yudilma, k es todo lo contratio. Yudi me dijo k ya empezo lo del agua, ustedes estan contentas?
+[21:56, 01/07/2025] Saya: No vivi pero si lo de la amiga son unos gramos, mandaselos con perry perry aparte 😂😂😂 no me eches la culpa k despues me llega un mal karma 😂😂
+[21:58, 01/07/2025] Saya: Bueno no todos los mios son serios pero ella y el marido, pa tener retardo, son los mas cuerdos k tengo alla. Lo k yo les pida, se rompen y me ayudan. Increible. Yo me crie con esa prima. Viviamos en casa de mi abuela todos juntos, ella es la mayor y yo la segunda
+[09:30, 02/07/2025] Vivian Toral Cot Toral Cot: Hola Saya!. Aquí estamos esperando para el boarding
+[09:30, 02/07/2025] Vivian Toral Cot Toral Cot: Te mando la lista que preparé. A lo mejor hay que dejar de comprar algo por los Kgs. Te la pongo en orden de prioridades.
+[09:31, 02/07/2025] Saya: Se van sin mi 😭😭😭
+[09:33, 02/07/2025] Vivian Toral Cot Toral Cot: En Action :
+- Vitamina C : 1 pomo
+- Multi A-Z : 2 pomos
+- Omega 3 : 1 pomo
+- Granos de Chía : 1 paquetico
+
+En cualquier lugar, el más barato si posible (puede ser Carrefour también):
+- Leche en polvo entera Regilait : 5
+- Café en polvo : 4
+- Polvo Capuchino Nestlé : 2
+- Harina de maíz fina : 2
+- Flocons d'avoine : 3
+- Algún cereal con chocolate 
+- Carne enlatada : algunas (tipo carne rusa) SI NECESARIO PARA COMPLETAR kgs
+
+Medicinas:
+- Gel BioFreeze : 2
+- Doliprane 1000 mg : 5
+- Ibuprofeno : 3
+[09:34, 02/07/2025] Vivian Toral Cot Toral Cot: Tirando un cálculo por arriba serían como unos 150€?
+[09:34, 02/07/2025] Vivian Toral Cot Toral Cot: Te paso ahora esa cantidad para que arranques las compras y luego me vas diciendo. Qué crees?
+[09:35, 02/07/2025] Saya: Que peso y marca el café?
+Que peso el flocon d'avoine?
+Harina de maiz no se cual es pero ya miraré
+[09:35, 02/07/2025] Saya: No es necesario yo guardo los tickets y ajustamos de una
+[09:36, 02/07/2025] Vivian Toral Cot Toral Cot: Café cualquier marca, solo que sea en polvo. Los paqueticos standards (deja ver si te mando una foto como referencia).
+Idem pour avoine.
+[09:38, 02/07/2025] Vivian Toral Cot Toral Cot: Café ARABICA (NO ROBUSTA) de los de 250g
+[09:40, 02/07/2025] Vivian Toral Cot Toral Cot: Así, por ejemplo ... de 500g cada paquete
+[09:46, 02/07/2025] Vivian Toral Cot Toral Cot: Ideas para cereales con chocolate 👇🏻 ... 2 cajas diferentes
+[09:47, 02/07/2025] Saya: No se nada de café 😂😂😂 cual es la diferencia?
+[09:47, 02/07/2025] Vivian Toral Cot Toral Cot: Robusta es más amargo
+[09:49, 02/07/2025] Vivian Toral Cot Toral Cot: Cuántos Kgs serían? ... 11 cada una?
+[09:51, 02/07/2025] Saya: Yo pienso k si porque voy a tratar de encontrar una caja o maletin k no sobrepase 1kg
+[16:09, 02/07/2025] Vivian Toral Cot Toral Cot: Vista desde la terraza de la habitación
+[17:26, 02/07/2025] Saya: Splendide
+[17:27, 02/07/2025] Saya: La terraza me mato
+[22:48, 02/07/2025] Vivian Toral Cot Toral Cot: Algo del hotel 👆🏻
+[09:01, 05/07/2025] Saya: Vivi estas despierta? Estoy en action. Es pa asegurarme de k los precios te convienen
+[09:02, 05/07/2025] Saya: Omega 3- 12,95
+Vitamina c - 10,95
+Multi a - z - 1,99
+[09:06, 05/07/2025] Vivian Toral Cot Toral Cot: Hola Saya!. Ok para esos precios.
+[09:15, 05/07/2025] Vivian Toral Cot Toral Cot: Vamos a desayunar ahora y dejo el cel cargando en la habitación
+[09:23, 05/07/2025] Saya: No ya todo bien
+[12:59, 05/07/2025] Saya: 😂😂😂😂😂
+[16:59, 05/07/2025] Saya: Vivian ibuprofeno de 200 o de 400?
+[17:01, 05/07/2025] Saya: Mande a osvaldo a la farmacia y me esta haciendo la pregunta. Igual no estoy moderando los precios pa no agobiarlo tanto, solo le dije k en caso de varias opciones k pida siempre el mas barato.
+[17:09, 05/07/2025] Saya: Gel biofreez no habia iremos a otra
+[17:32, 05/07/2025] Saya: Vivian osvi compro ibuprofeno de 200 3 cajas y el dolipran de mil 5 cojas. Le cobraron 17 euros yo estoy choca' chica, pero bueno dime si hacian falta de 200  o de 400 por si tengo k comprar mas de 200 pa compensar, voy a las farmacias de viry pa ver lo del gel. Si no hay eso hay algun remplazante? No conozco eso
+[17:55, 05/07/2025] Vivian Toral Cot Toral Cot: Le cobraron tan caro!
+[17:59, 05/07/2025] Saya: Ah tu tambien lo encuentras caro. Ay k estres! El dolipran es como a 2,20 y hay 5. Por ahi ya van como 11 euro. Los otros 6 seria por el ibuprofeno k son 3 Visto asi kizas sea mas comprensible, porque el no cogio el ticket sino solo el de cb k no tiene el detalle. Pero bueno dejo esas 3 cajas de 200 y ya. 
+Ahora en una farmacia consegui i'un biofreeze k le quedaba. Estoy en carrefour pa de ahi ir a otra por aca atras
+[17:59, 05/07/2025] Saya: El biofreeze me costo 11,70. Ca va?
+[18:01, 05/07/2025] Saya: En Action :
+- Vitamina C : 1 pomo
+- Multi A-Z : 2 pomos
+- Omega 3 : 1 pomo
+- Granos de Chía : 1 paquetico
+
+En cualquier lugar, el más barato si posible (puede ser Carrefour también):
+- Leche en polvo entera Regilait : 5
+- Café en polvo : 4
+- Polvo Capuchino Nestlé : 2
+- Harina de maíz fina : 2
+- Flocons d'avoine : 3
+- Algún cereal con chocolate 
+- Carne enlatada : algunas (tipo carne rusa) SI NECESARIO PARA COMPLETAR kgs
+
+Medicinas:
+- Gel BioFreeze : 2
+- Doliprane 1000 mg : 5
+- Ibuprofeno : 3
+[18:01, 05/07/2025] Saya: Reenviarme esto pa ir siguiendo la lista
+[18:02, 05/07/2025] Saya: Tu andas por ahi? Pa si quieres chequear los precios de carrefour
+[18:02, 05/07/2025] Saya: Tambien podria ir a lidl pero ya manana
+[18:04, 05/07/2025] Saya: Estos son los capuccinos nestle? Son a 5 y pico. En lidl es menos de 3
+[18:04, 05/07/2025] Saya: Pero no son nestle
+[18:08, 05/07/2025] Saya: El cafe estoy perdia hay unos paquetes de 4 por 12 eur pero no dicen ni arabica ni robusta
+[18:08, 05/07/2025] Saya: Encontre uno marca carrefour k si dice arabica por 13,59
+[18:11, 05/07/2025] Saya: Harina de maiz sigo sin saber k es. Deja ver que encuentro
+[18:14, 05/07/2025] Saya: Este lo cogi
+[18:15, 05/07/2025] Saya: Esto cuesta el doble. Lo cojo o paso pa otro tipo aunque no esté en tus fotos? Ejemplo
+[18:15, 05/07/2025] Saya: 2 y poco si entiendo bien la etiqueta
+[18:16, 05/07/2025] Saya: Cojo este k se parece el chocopic
+[18:22, 05/07/2025] Saya: 3,85 la farine de mais unica k hay en todo esto
+[18:23, 05/07/2025] Saya: Tambien hay maizena a 1,65
+[18:24, 05/07/2025] Saya: Resumen vivian confirmame sobre el capuccino, el café y la harina de maiz. Ya todo lo otro lo estoy llevando. Viro manana cuando me confirmes asi peso lo k tengo y puedo saber k latas compro pa completar. Espera deja ir a localizarlas y mandarte fotos tambien
+[18:33, 05/07/2025] Saya: Yo no veo donde esta la carne enlatada aqui 🤷🤷🤷 ire a lidl
+[19:13, 05/07/2025] Saya: Ya consegui el otro biofreeze en la tercera farmacia 😂😂😂
+[19:54, 05/07/2025] Vivian Toral Cot Toral Cot: No hay problema ninguno
+[19:57, 05/07/2025] Vivian Toral Cot Toral Cot: Pas de problème. Ese es el precio normalmente.
+[19:58, 05/07/2025] Vivian Toral Cot Toral Cot: Ok para esos
+[19:58, 05/07/2025] Vivian Toral Cot Toral Cot: Ok para el Capuccino de Lidl
+[20:09, 05/07/2025] Saya: La harina no cojo ni la maizena ni la de 3,85?
+
+Y mantengo completar con latas de carne de lidl y de los indios?
+
+Hay algo mas k se te haya ocurrido entre tanto?
+[20:12, 05/07/2025] Vivian Toral Cot Toral Cot: Ni harina, ni maizena. Ok para completar con latas de carne.
+[20:19, 05/07/2025] Saya: Yo no he comprado nada porque estuve estresada en conseguir lo tuyo. Y tambien en comprar los zapatos de los muchachos k lo hare manana. Tengo las mochilas pa la escuela, medias, fournitures. De ahi tengo k pesar tambien y rellenaré con cosas como capuccino de lidl, atun, comino y algunas especies en polvo, leche como la tuya k si la compre ya. Y medicamentos. Siempre tengo cosas de aseo pa completar si fuera necesario y les compré perfume de 2 eur en action.
+[21:03, 05/07/2025] Saya: Tare a zéro
+[21:03, 05/07/2025] Saya: Leche y cereales 2770 g
+[21:04, 05/07/2025] Saya: Tare a zéro
+[21:05, 05/07/2025] Saya: Avoine 1500, normal porque son de 500 + 2 g de papel supongo. Contamos 1500
+[21:06, 05/07/2025] Saya: Todo lo otro
+[21:07, 05/07/2025] Saya: Aqui cuento 1560 pa simplificar
+[21:09, 05/07/2025] Saya: 2770+1500+1560=5830
+El café sera 1kg
+6830
+
+Quedan 4130 mas o menos pa los capuccinos y completar con latas.
+[23:29, 05/07/2025] Saya: Yo pesé le mio y voy por 6850 fijate tu que coincidencia
+[09:48, 06/07/2025] Saya: Vivian estas despierta? Que pena. Bueno el nescafe capuccino que cuesta 5 y pico en carrefour, en lidl esta en 4,47 pero el capucino normal de lidl cuesta 1,56 le voy a coger ese
+[09:49, 06/07/2025] Vivian Toral Cot Toral Cot: Hola Saya, sí, ya despierta
+[09:56, 06/07/2025] Vivian Toral Cot Toral Cot: Ok, coge ese.
+[10:01, 06/07/2025] Saya: El cafe ire a carrefour aqui sale mas caro k aquel que vimos 4 por 13 y pico.
+[10:01, 06/07/2025] Saya: Cojo latas de sardinas y atun? Sigo sin saber donde venden carne prensada en estas tiendas 😬
+[10:06, 06/07/2025] Vivian Toral Cot Toral Cot: En lugar de café, ahí en Lidl coge entonces puré de papa en polvo. Eso está cerca del arroz.
+[10:11, 06/07/2025] Saya: Pure de papa ya estoy aqui.
+[10:11, 06/07/2025] Saya: Cuantos cojo?
+[10:15, 06/07/2025] Saya: 4 es 12,62
+[10:17, 06/07/2025] Saya: Completar con puré de papa es enorme porque nos quedaban como 3 kg cuando compraramos el capuccino. Deja ver. Atun y sardinas no? Les cojo té de algo? Eso no pesa mucho
+[10:21, 06/07/2025] Saya: Cogi 4 de puré, cuando llegue peso y te digo como va la cosa y si algo completo con algo del indio de la esquina que si debe tener latas + especias y cosas asi.
+[12:30, 06/07/2025] Saya: Vivian cosas como los cereales y el puré de papa puedo sacarlo de las cajas pa optimizar espacio?
+[12:39, 06/07/2025] Saya: Buena idea
+[12:39, 06/07/2025] Saya: Mira el cafe 1050 anoche habiamos contao 1kg asi k le sustraigo 50 g al solde k nos quedaba
+[12:40, 06/07/2025] Saya: 2770+1500+1560=5830
+El café sera 1kg
+6830
+
+Quedan 4130 mas o menos pa los capuccinos y completar con latas.
+[12:41, 06/07/2025] Saya: Eso es lo de menos 50g es solo pa no perder de vista k las cosas pesan un poquito mas por el emballage. No mongui porque como voy a sacar aquello de las cajas todo va a pesar menos, tengo k pedar de nuevo
+[12:44, 06/07/2025] Saya: Vienen quedando entre 1 y 1,5 kg en funcion de cuando pese de nuevo cuando les quite las cajas
+[12:46, 06/07/2025] Saya: Ok pero pa llenar un kg de thé oh my god. Y polvos como comino y eso?
+[13:00, 06/07/2025] Saya: Bijol
+[13:00, 06/07/2025] Saya: Colorent alimentaire
+[13:00, 06/07/2025] Saya: Vale nengre ya estoy en la recta final
+[13:03, 06/07/2025] Saya: A ti te queda mas peso todavia porque te pese 3 capuccinos y uno era mio pero no te agobies yo voy acomodando y pesando de nuevo y te mantengo al tanto. Los tickets despues, los k perdi fueron los 2 del biofreeze porque mi mama me boto la jabita de la farmacia 😱😱😱 no quiero estresarme porque ya habia puesto los otros juntos aqui arriba de la mesa y no los veo pero tengo reguero. Dejame no coger lucha con eso desde ahora 😂😂😂
+[14:00, 06/07/2025] Saya: Bueno voy pal indio. Tienes 9,4 kg sin las cajas. Solo deje las de leche k eso blanco parece otra cosa 😂😂😂😂
+[14:19, 06/07/2025] Saya: El maletin pesa 1135 gramos. El calculo k hicimos estuvo perfecto. On ne peut pas faire mieux
+[14:19, 06/07/2025] Vivian Toral Cot Toral Cot: Bravo !
+[14:23, 06/07/2025] Saya: Voy al indio ahora
+[14:30, 06/07/2025] Saya: Lo bueno es que aqui mismo puedo pesar las cosas 😂😂😂😂
+[14:36, 06/07/2025] Vivian Toral Cot Toral Cot: Muy bien
+[14:41, 06/07/2025] Vivian Toral Cot Toral Cot: Ok entonces para Macabí en lata
+[14:41, 06/07/2025] Saya: Las epices pesan 535 🥰
+[14:41, 06/07/2025] Saya: Voy pal macabi 😂
+[14:42, 06/07/2025] Saya: Dos latas fueron 990 gr estamos perfectas me voy
+[14:43, 06/07/2025] Vivian Toral Cot Toral Cot: Nosotras en el bus rumbo al aeropuerto
+[14:44, 06/07/2025] Saya: Welcome back
+[15:34, 06/07/2025] Saya: Listo. Voy a buscarle un candadito 🤪
+[16:45, 06/07/2025] Vivian Toral Cot Toral Cot: Ya estás lista para trabajar en DHL
+[17:01, 06/07/2025] Saya: Jajajaja. Vivian perry perry me pregunto k si lo quiero empapelar 😱😱😱😱 yo creo k esa gente cobra cantidad por eso pero como van tus productos tambien no quise tomar la decision sola. Por ahora esquivé responderle. Ya voy a salir p'alla
+[17:02, 06/07/2025] Vivian Toral Cot Toral Cot: No creo haga falta empapelar. Qué crees tú?
+[17:03, 06/07/2025] Saya: Yo siempre me he arriesgado sin empapelar por el costo del mismo. K ya no se cuanto es de tanto k deje eso fuera de mi vida.
+[17:16, 06/07/2025] Saya: Que sea lo k Dios quiera. Yo nunca he tenido problemas en 24 anos de viajes al monstruo 😂😂😂
+[20:15, 06/07/2025] Saya: Bueno deja mandarte los calculos pa seguir con mi vida 😂😂😂
+[20:17, 06/07/2025] Saya: 27,56+54,57+17,65+25,26+12,9+11,9×2=161,74
+
+
++ 110 del envio
+270 pa redondear
+[20:17, 06/07/2025] Saya: Tenemos 2 biofreeze k perdi el ticket 11,90x2 + lo siguiente
+[20:18, 06/07/2025] Saya: Besitos. Ahora me voy pal gimnasio pa hacerme la valerosa 😂
+[21:59, 06/07/2025] Vivian Toral Cot Toral Cot: Acabamos de aterrizar. Te hago el envío en cuanto esté en el Uber.
+[22:00, 06/07/2025] Saya: No hay apuro vivian. Tranquila
+[22:22, 06/07/2025] Vivian Toral Cot Toral Cot: Este RIB tuyo está ok?
+[22:24, 06/07/2025] Saya: Yes
+[22:26, 06/07/2025] Vivian Toral Cot Toral Cot: Hecho 😉
+[19:52, 07/07/2025] Saya: Es yudilma quien recoge y se lo lleva a merline
+[21:08, 07/07/2025] Vivian Toral Cot Toral Cot: Saya, cómo poder aguantar los 39 días que faltan para que la señora madre de Yexy vuele para Cuba?
+[21:09, 07/07/2025] Vivian Toral Cot Toral Cot: Yo paré de prestarle atención cuando dijo en medio del buffet que me traían mis dulces sin "glúteo" y cuando intentó consumir su helado con un tenedor. Ahí sencillamente se convirtió para mí en conjunto nulo o vacío.
+[21:09, 07/07/2025] Vivian Toral Cot Toral Cot: En vez de decir "sin gluten"
+[21:11, 07/07/2025] Saya: Ay no no no nooooo, es para Cuba? Pense k era Espana. Vivi tienes k buscarte un hobby mientras tanto. No puedes hacer fijacion asi. Lo k me preocupa es k ella es la mama de Yexi. Todas esas cosas seguramente ella las sufre. Hay k tener cuidado, yo se k no es facil pero tengo miedo k eso termine afectandolas a ustedes. Ya queda menos tiempo, ponganse fuerte, ya casi salen
+[21:11, 07/07/2025] Saya: Yo sabia que ibas a venir explota' de alla 😬
+[21:12, 07/07/2025] Vivian Toral Cot Toral Cot: España será luego. Estamos en búsqueda de un alquiler para ella y Yangel
+[21:13, 07/07/2025] Vivian Toral Cot Toral Cot: Ah no, yo relax. Si me hice masajes, SPA y todo. Lo único que con ese nivel de salvajismo ya no puedo más.
+[21:13, 07/07/2025] Vivian Toral Cot Toral Cot: Incluso Yexy se molestó con ella varias veces.
+[21:14, 07/07/2025] Vivian Toral Cot Toral Cot: Tienes razón. Tengo que buscarme un hobby y estar lo menos posible en la casa hasta que se vaya.
+[21:15, 07/07/2025] Saya: Jajaja se ve k lees mis mensajes 😂😂😂
+[21:16, 07/07/2025] Vivian Toral Cot Toral Cot: Tenemos los genes "vocacional" 😉
+[21:17, 07/07/2025] Saya: Arley diria que estamos locas 😂😂😂
+[21:45, 09/07/2025] Saya: Nengre estoy haciendo una formacion Livementor y para el examen me piden un millon de cosas entre las cuales hacer un estudio calitativo, te molestaria responder a este formulario please? Antes del viernes si fuera posible : https://forms.gle/BTnX44XpW1N1JFWS6 Gracias, gracias, gracias. Preguntale a Yexi tambien, mientras mas respuestas tenga mas mejore todavia
+[08:08, 10/07/2025] Vivian Toral Cot Toral Cot: Done
+[08:09, 10/07/2025] Saya: Gracias ❤️❤️❤️
+[21:09, 11/07/2025] Vivian Toral Cot Toral Cot: Saya, estarían libres el 14 para barbecue aquí en el jardin?
+[21:10, 11/07/2025] Vivian Toral Cot Toral Cot: Qué ricoooooo
+[21:31, 11/07/2025] Saya: Mytho
+[18:04, 13/07/2025] Saya: Yo me encontré aqui de casualidad una amiga de la universidad k vive en madrid. Increiiiible
+[18:07, 13/07/2025] Saya: Pero ya no somos jovenes, tuvimos k regresar al hotel a dormir un poco, ahora vamos p'alla de nuevo
+[21:00, 13/07/2025] Saya: Si si yo participo 😂😂😂😂😂
+[21:01, 13/07/2025] Vivian Toral Cot Toral Cot: Déjame poner algo 🤣🤣🤣🤣
+[13:16, 15/07/2025] Vivian Toral Cot Toral Cot: Hola Saya!. Haz tenido alguna noticia de nuestro envío?
+[13:16, 15/07/2025] Vivian Toral Cot Toral Cot: Me han dicho que al Perry Perry no le gusta que le pregunten directamente
+[13:17, 15/07/2025] Saya: No. Parece k no fue el nuestro el k se le quedo. Y exactamente, no le gusta k lo jeringuen asi k le preguntare a mi prima si ya la contactaron
+[13:17, 15/07/2025] Vivian Toral Cot Toral Cot: Además de nuestro maletín, yo envié también otro paquete
+[13:23, 15/07/2025] Saya: Yo tambien pero le dije k lo metiera en el maletin cuando llegara alla. Y ese otro paquete quien lo recoge?
+[13:24, 15/07/2025] Vivian Toral Cot Toral Cot: Merline
+[13:25, 15/07/2025] Saya: Dice mi prima k nada todavia
+[13:26, 15/07/2025] Vivian Toral Cot Toral Cot: Pues seguiremos esperando
+[13:28, 15/07/2025] Saya: Con toda la prudencia k lleva ese momento 😂😂😂
+[20:07, 15/07/2025] Vivian Toral Cot Toral Cot: Me imagino que no te haya respondido aún
+[20:08, 15/07/2025] Saya: Exactly🫣
+[20:08, 15/07/2025] Saya: Eso es lo k va encojonando a uno 😂
+[20:09, 15/07/2025] Vivian Toral Cot Toral Cot: Él se toma por un salvador realmente ... estos pájaros traumáticos
+[20:12, 15/07/2025] Saya: Exacto. Despingante. Y despues k te mortifica tanto tienes k ir y decirle oh mi amor gracias por existir 😂😂😂😂😂😂
+[10:42, 16/07/2025] Vivian Toral Cot Toral Cot: El Perry Perry toma su tiempo. Creo que después que haga esta entrega, me salgo de ese grupo.
+[19:35, 16/07/2025] Saya: No vivi esto no es pa ti 😂😂😂😂😂
+[21:09, 16/07/2025] Saya: Mi prima tambien.
+[21:09, 16/07/2025] Saya: Pero segun entiendo en em grupo habia un envio directo a stgo. Lo k no es normal es k ni responda los mensajes
+[21:11, 16/07/2025] Saya: Hoy fue mi reprise tras 5 dias de descanso. Muy a la cool, trabaje de manera efectiva 3h maximo. Y ya voy a dormir, fijate como ando.
+[22:09, 16/07/2025] Vivian Toral Cot Toral Cot: Ah no, ya le diré exactamente todo lo contrario
+[22:16, 16/07/2025] Saya: Ay Vivi chica. Y ya no tiene me imagino
+[22:20, 16/07/2025] Vivian Toral Cot Toral Cot: Buenas noches Sandy.
+POR FAVOR, necesito información sobre mi envío a Ciego de Ávila.
+No suelo molestarte, pero hay un medicamento urgente para mi mamá de 82 años y necesito saber si el envío llega o no llega.
+Gracias.
+[22:20, 16/07/2025] Vivian Toral Cot Toral Cot: Fue este 👆🏻
+[22:21, 16/07/2025] Saya: Por que no respondera?
+[22:21, 16/07/2025] Vivian Toral Cot Toral Cot: A ver si le cayeron a palazos por pájaro de mal quedar
+[08:04, 17/07/2025] Vivian Toral Cot Toral Cot: Hola Saya!. Bueno, ya debes haber visto que el personaje se dignó a dar alguna información.
+[08:10, 17/07/2025] Saya: Como k ya lo sabiamos 🙃
+[08:19, 17/07/2025] Vivian Toral Cot Toral Cot: Sí, pero no dicho tan claramente
+[08:20, 17/07/2025] Vivian Toral Cot Toral Cot: Y a esa Magda babosa la estoy al mandar pa la p!
+[08:30, 17/07/2025] Vivian Toral Cot Toral Cot: Yo entendí como tú
+[08:30, 17/07/2025] Vivian Toral Cot Toral Cot: A mí sí me respondió
+[08:38, 17/07/2025] Saya: Coherente
+[08:38, 17/07/2025] Saya: No habia podido conectarse mas
+[08:39, 17/07/2025] Saya: Bueno ya veremos. Besitos. Y lindo dia
+[08:47, 17/07/2025] Vivian Toral Cot Toral Cot: Voy llegando a Gare de Lyon
+[08:24, 18/07/2025] Vivian Toral Cot Toral Cot: Escucha este mensaje de Merline, mi mamá no está nada perdida.
+[08:34, 18/07/2025] Saya: Candelaaaa
+[08:35, 18/07/2025] Vivian Toral Cot Toral Cot: Ahora le escribí que le preguntara por el teorema de Pitágoras y se lo escribí para que pudiera comprobar.
+[08:35, 18/07/2025] Vivian Toral Cot Toral Cot: Su punto fuerte era el álgebra y la trigonometría
+[16:41, 19/07/2025] Vivian Toral Cot Toral Cot: Hola Saya, viste los últimos mensajes en el grupo de envíos?.
+[16:58, 19/07/2025] Saya: Si. Por que?
+[17:02, 19/07/2025] Vivian Toral Cot Toral Cot: Alguien preguntaba que qué le pasaría
+[17:13, 19/07/2025] Saya: No ese siempre esta en lo mismo.
+[21:28, 19/07/2025] Saya: 😂😂😂😂😂
+[16:59, 20/07/2025] Vivian Toral Cot Toral Cot: Estoy a 3 segundos de irme del grupo de los envíos
+[16:59, 20/07/2025] Vivian Toral Cot Toral Cot: Es una gran falta de respeto de su parte no informar cómo va todo.
+[17:29, 20/07/2025] Saya: No se si lo dijo esta vez pero los vuelos llegan miercoles y domingo. Hay k 🤞 pa ver si llegan hoy. Pero estaremos durmiendo y veremos manana cuando abra los ojos 🫣
+[17:33, 20/07/2025] Vivian Toral Cot Toral Cot: Sí, lo dijo en su explicación
+[06:22, 22/07/2025] Saya: Hola vivian. Ya hoy es martes, ayer no se oyo decir nada de las maletas.
+[06:23, 22/07/2025] Vivian Toral Cot Toral Cot: Hola Saya, así mismo.
+[06:24, 22/07/2025] Vivian Toral Cot Toral Cot: Me estoy yendo del grupo en este momento. Ya sabré por ti cuando las maletas lleguen. Es demasiado su falta de respeto con la no comunicación.
+[06:24, 22/07/2025] Vivian Toral Cot Toral Cot: Puedes pasarme por fa la dirección de la farmacia de Paris 18?
+[06:24, 22/07/2025] Saya: Es verdad. Mientras mas se demoren las maletas mas debia comunicar y no coger las rabietas esas
+[06:25, 22/07/2025] Vivian Toral Cot Toral Cot: Se me había olvidado proponerte si quieres enviar algún medicamento con la mamá de Yexy. Elle vuela el 14 de agosto.
+[06:25, 22/07/2025] Vivian Toral Cot Toral Cot: Me fui del grupo
+[06:27, 22/07/2025] Saya: Anoche cuando me acosté pensé lajanamente en eso. Y despues me decia k no sabia si iba pa cuba o pa espana y me dormi. Gracias. Ya veremos de aqui alla. Por ahora no tengo nada en mente. Despues de esta yo no tengo deseos de seguir prendia con esa cuba, k mi mama, mi papa y mis hijos estan aqui.
+[06:28, 22/07/2025] Saya: Yo se k esta situacion es demasiado para ti. Para ari y osvaldo, para la mayoria de mis amigos normales 😂😂😂😂
+[20:43, 22/07/2025] Saya: Buenos días a todos , sigo moviéndome para sacar las otras maletas que quedan es una locura todo pero como mismo ustedes quieren recibir sus paquetes yo también quiero dormir tranquilo, he eliminado del grupo a gran parte porque en realidad ya se está saliendo de control esto
+[20:43, 22/07/2025] Saya: A partir de ahora me quedo solo con mis clientes de siempre . 
+Solo se aceptaran paquetes de 5kg , 10 kg o maletas enteras. 
+Teléfonos y documentos 
+Y el envío de dinero únicamente en efectivo me lo deben de dar para evitar los contratiempos con las tarjetas que si se bloquean o no
+[20:43, 22/07/2025] Saya: Estoy muy agradecido con muchos que hacen que de esto yo viva . Pero esto se ha ido de control , y basta que pase algún problema para ver la cara de cada quien . Entonces mejor me quedo con los de siempre
+[20:43, 22/07/2025] Saya: Por otra parte aún seguimos gestionando lo del equipaje que falta para que sean entregados lo más pronto posible
+[20:43, 22/07/2025] Saya: Te fuiste antes de tiempo, elimino como a 40 gente 😂😂😂😂
+[21:06, 22/07/2025] Saya: Exactamente
+[21:07, 22/07/2025] Saya: Es una secta. Ahora los que tuvimos la suerte de ser elegidos le pasamos una sesion de guataqueria pa k no eche nuestros paquetes al mar 😂😂😂😂 tu no puedes estar en esa secta
+[22:12, 22/07/2025] Saya: Je suis sur Instagram sous le nom @clemente_segrera. Installez l’application pour suivre mes photos et vidéos. https://www.instagram.com/invites/contact/?igsh=19q4idbzkmb65&utm_content=oup8fpn
+[19:26, 24/07/2025] Saya: Hola corazon el muchacho que reparte la paquetería en Cuba
+[19:26, 24/07/2025] Saya: Mire le escribo porq ya tengo sus paquetes
+[19:30, 24/07/2025] Vivian Toral Cot Toral Cot: Qué bien!
+[19:30, 24/07/2025] Saya: Era pa k le diera el codigo del candao
+[19:30, 24/07/2025] Saya: Saya el muchacho de los paquetes Perry Perry que le hace falta que le mandes la combinación del candado del maletín para él poder echar los dos paquetes que están aparte de los otros que de la otra vez para no poder para no pagarle más a chofer de la guagua que él te está llamando pero no no le coges el teléfono no que le hagas llegar la combinación de candadito ya que sale hoy para acá para la ciego ya a repartir
+[19:34, 24/07/2025] Saya: En mi caso esta hablando solo de la maleta
+[19:34, 24/07/2025] Vivian Toral Cot Toral Cot: Aquí habla de otros dos paquetes
+[19:34, 24/07/2025] Saya: +2 paquetes aparte k yo habia mandao en envios anteriores y k no los habia llevao
+[19:35, 24/07/2025] Saya: El va llamando a la gente, pero si quieres le mando esas dos fotos
+[19:36, 24/07/2025] Vivian Toral Cot Toral Cot: Ahí van 120 pastillas de Alprazolam
+[19:37, 24/07/2025] Saya: Ahhhh pero vivi to esta caca es por alprazolam, yo creo k tenia alla fijate tu 😱😱😱😱
+[19:37, 24/07/2025] Saya: Bueno deja escribirle. 🤞🤞🤞
+[19:39, 24/07/2025] Saya: Hasta ahora no me habias dicho k era alprazolam porque yo le mande 2 cajas a mi prima de la habana y creo k no se lo han dado todavia. Al no ser k mi prima las haya vendido. Deja preguntar
+[19:49, 24/07/2025] Saya: Las uso el marido de mi prima con su mama. No me habian dicho nada.
+[19:49, 24/07/2025] Saya: El otro no me responde.
+[19:49, 24/07/2025] Saya: Todavia al menos
+[19:53, 24/07/2025] Vivian Toral Cot Toral Cot: Gracias igual
+[19:56, 24/07/2025] Saya: Yo zstoy en urban jump con los ninos. Me queda una hora. Estoy desespera' porque yo no estoy saltando y aqui hay una bulla tal, k estoy de lo mas atormenta', ademas de aburria
+[19:57, 24/07/2025] Saya: Claro vivi, espera un poquito, respira. A lo mejor el contacta a merline directamente cuando se este acercando. A mi me contacto, lo k nunca, porque necesitaba el codigo, el contacta a la gente alla directamente
+[07:28, 25/07/2025] Saya: Él mandó a pedir la contraseña del candadito que le pusiste el maletín pero no ha dicho nada si si va a salir de la Habana o algo eso
+[07:28, 25/07/2025] Saya: Hello
+[07:29, 25/07/2025] Saya: Y a mi no me respondio mas nada. Lo cual no tiene nada k ver con la compania aerea, o si? 😂😂😂😂😂
+[20:03, 25/07/2025] Vivian Toral Cot Toral Cot: Saya, alguna noticia?
+[20:05, 25/07/2025] Saya: Vivian no. Yo casi k habia entendido k salia pa provincia anoche. Por el mensaje del marido de mi prima, pero parece k me equivoqué de interpretacion
+[20:06, 25/07/2025] Vivian Toral Cot Toral Cot: Y en el grupo me imagino que nadie osa preguntar nada
+[20:07, 25/07/2025] Saya: Nada. Silencio total
+[20:21, 25/07/2025] Saya: Zone investigation aqui 😂😂😂
+[20:22, 25/07/2025] Saya: Candelaaaa
+[20:23, 25/07/2025] Vivian Toral Cot Toral Cot: Qué mal trabajo el de ese come mierda
+[20:24, 25/07/2025] Vivian Toral Cot Toral Cot: Esperaremos a ver
+[20:24, 25/07/2025] Vivian Toral Cot Toral Cot: Y si no es mi paquete pues ya le escribiré
+[20:25, 25/07/2025] Vivian Toral Cot Toral Cot: Tu prima también me conoce a mí. Explícale que soy yo quien está mandando un paquete para mi casa. Y que Merline es el contacto que doy allá siempre.
+[20:25, 25/07/2025] Vivian Toral Cot Toral Cot: Cuando le lleguen los paquetes puede hacer una foto para ver
+[20:25, 25/07/2025] Saya: Ok ya le digo
+[21:00, 25/07/2025] Vivian Toral Cot Toral Cot: Exactamente 👍🏻
+[21:03, 25/07/2025] Saya: Si ahi es donde yo lo compro sin problemas
+[21:07, 25/07/2025] Vivian Toral Cot Toral Cot: 🤣🤣🤣🤣
+[21:11, 25/07/2025] Saya: https://maps.app.goo.gl/e1Lc7t8f8tEC3VGm9?g_st=aw
+[21:16, 25/07/2025] Vivian Toral Cot Toral Cot: Ah no es nada de peso.
+[21:44, 25/07/2025] Saya: Saya yo también estoy con los ojos cerrados del cansancio.
+Mira ya tengo en la habana mi vecina Tania,no sé si te acuerdas de ella,me lo va recuperar con la mamá de la muchacha y una amiga  mía de ciego que está en la habana lo llevará.
+Mil,mil gracias por toda tú ayuda, cómo siempre .
+Un abrazo grandoteee.
+Un bs.
+Saludos a tú familia.
+[21:45, 25/07/2025] Vivian Toral Cot Toral Cot: Et voilà 😉
+[21:45, 25/07/2025] Saya: Todo sigue sur curso
+[21:46, 25/07/2025] Saya: Solo nos falta perry perry
+[21:37, 26/07/2025] Vivian Toral Cot Toral Cot: Hola Saya, y el perro de Perry Perry no responde todavía a tu mensaje?
+[21:38, 26/07/2025] Saya: No olvidalo. Una muchacha tambien pregunto en el grupo y nada
+[21:39, 26/07/2025] Saya: Le escribi ahora de nuevo 🤷
+[21:39, 26/07/2025] Vivian Toral Cot Toral Cot: Es una falta de respeto ese tipo
+[21:39, 26/07/2025] Saya: K jelengue. Se han extremado esta vez
+[21:40, 26/07/2025] Saya: BUENO DIAS CORAZON ENTRE ☀️ y 🏊‍♀️ Dinos algo de mi maletin 😭
+[21:40, 26/07/2025] Saya: Mira el de la muchacha 👆👆👆
+[21:42, 26/07/2025] Vivian Toral Cot Toral Cot: Es que hace ya como 2 semanas que viajó. Por mucho retraso en los equipajes por la compañía ... es una falta de respeto su actitud
+[21:45, 26/07/2025] Saya: Si es lo k yo digo, que debia comunicar mantener a uno al tanto.
+[21:46, 26/07/2025] Vivian Toral Cot Toral Cot: A ver qué me responde
+[12:20, 27/07/2025] Saya: No veo detalles, te respondio? Contacto a merline?
+[12:43, 27/07/2025] Vivian Toral Cot Toral Cot: Hola, no me respondió. Y tampoco ha visto mi mensaje.
+[12:43, 27/07/2025] Vivian Toral Cot Toral Cot: O no ha querido leerlo, o me bloqueó antes que yo lo hiciera.
+[13:04, 27/07/2025] Saya: No a lo mejor ni consulta los mensajes. Capaz k tenga una sim cubana y ni se entera de k dejo a gente aqui en la caca
+[13:07, 27/07/2025] Vivian Toral Cot Toral Cot: Yo salí a caminata
+[13:08, 27/07/2025] Saya: Yo ahora me meti en la marche japonesa. 30 min diarios
+[13:08, 27/07/2025] Saya: Te fuiste sola?
+[13:24, 27/07/2025] Saya: Ah pero vivi estamos en el mismo combate. Quieres k seamos partenaires de responsabilisacion pa darnos apoyo comun y motivarnos?
+[13:25, 27/07/2025] Saya: La marcha japonesa no es nada del otro mundo. 3 minutos caminando suave a un ritmo normal y 3 min rapido rapido casi essoufléé. 5 veces. Eso hace 30 min. C du fractionné pero de marche y no corriendo
+[17:46, 27/07/2025] Vivian Toral Cot Toral Cot: Dale, vamos a unirnos! ... tipo Voltus V 🤣🤣🤣
+[19:20, 27/07/2025] Saya: Ah perfecto podemos ir apoyandonos. Yo como sano de por si, y tambien hago ejercicios, pero no se k paso k en un momento subi 5 kg y no logro bajar ni un gramo. Si como una cucharada de arroz se me inflacla barriga como de embarazada, un horror k me recuerda mi epoca antes de la operacion. Excepto k no tengo ningun parametro mal. Ninguno. Es increible. El cortisol si lo tengo bajo pero eso no engorda al contrario. No tengo resistencia a la insulina. Yo abogo por luchar contra la inflamacion pero un poco a ciegas cada vez k le hablas a un medico de bajar de peso se ve k no te estan haciendo caso, te dan unos consejos bateau de come ensalada por la noche y si le preguntas a 3, cada uno te dice una caca diferente. Pero en estos dias estoy fuertecde nuevo en k yo puedo lograrlo, asi k podemos incentivarnos. Te mando la foto de mi deporte diario y kizas al final del dia las comidas pa no agobiarte tanto. Y si no tienes tiempo de debriefer c pas grave tenemos vidas locas, pero el hecho de mandar la foto ya hace k uno preste atencion. Por mi parte me voy 2 semanas a espana. Je vais faire de mon mieux con em deporte pero con la comida no puedo comprometerme a un extremo 🤣🤣🤣🤣
+[19:27, 27/07/2025] Vivian Toral Cot Toral Cot: Mi desayuno hoy
+[19:27, 27/07/2025] Vivian Toral Cot Toral Cot: El almuerzo
+[19:28, 27/07/2025] Vivian Toral Cot Toral Cot: Y la comida será un simple bol de sopa de legumbres y una pieza de pollo hecho en el Airfryer
+[19:29, 27/07/2025] Vivian Toral Cot Toral Cot: Yogurt con granos de chía y mirtylles
+[19:40, 27/07/2025] Saya: Normalmente debia ser lo contrario carne al mediodia y legumes sin carne por la tarde. Hoy yo no tiré fotos porque todavia no estaba comprometia. Empiezo ahorita en la comida. Pero si hice la mi marcha japonesa y ahorita voy a hacer pesas aqui
+[19:40, 27/07/2025] Saya: Tengo k bajar idealmente 10 kg pero mismo 5 serian una victoria.
+[19:41, 27/07/2025] Saya: Mi desayuno varia poco, 2 huevos hervidos con medio aguacate y 1 café
+[19:42, 27/07/2025] Vivian Toral Cot Toral Cot: Estoy en lo mismo. Mi objetivo serían 10 Kg.
+[19:56, 27/07/2025] Saya: Y tengo un objetivo de 9k pasos al dia pero no los logro siempre porque los 30 min de marche sur tapis son unos 3700 pasos y el resto depende de si puedo salir fuera o no, hay dia k las reuniones no me dejan
+[20:02, 27/07/2025] Vivian Toral Cot Toral Cot: La idea mía es ir 3 veces por semana al trabajo y terminar a las 17h para gym en el trabajo mismo de 17h15 - 18h15. Empecé la semana pasada.
+[20:04, 27/07/2025] Vivian Toral Cot Toral Cot: Y sábado y domingo camino por aquí
+[20:22, 27/07/2025] Saya: Esta perfecto eso. Porque hay k dejar dias de descanso. Yo los 30 min de caminao los puse diarios porque eso no me va a matar. Pero el gymnasio tambien son 3 veces maximo porque no lo tengo tan organizao como tu y es a lo k surja. Hay semanas k voy 5 dias, otras 1, otras ninguno y remplazo por cosas aqui en la casa. Pero con tu nivel de disciplina yo lograré ponerlo organizado 🤣🤣🤣
+[20:22, 27/07/2025] Saya: Yo hice un dia de paseo en mennecy con ari y osvy y nos encanto !
+[21:26, 27/07/2025] Saya: Pienso k esto no es lo mejor cuando estas mal del estomago pero a la vez limpia
+[21:37, 27/07/2025] Saya: Ya cierro mis transmisiones porque me voy a acostar pero puedes describirme tu diner sans pb. Lo que quiero decir es k no habra nada nuevo para mi. Colgué los guantes
+[21:39, 27/07/2025] Vivian Toral Cot Toral Cot: Dale, nos contactamos mañana. Se me olvidó la foto de la comida 😵‍💫
+[21:40, 27/07/2025] Saya: Tranqui lo importante es comer 🤣
+[12:10, 28/07/2025] Vivian Toral Cot Toral Cot: Pescado, aubergine, otras legumbres. Y rábanos y pepino. That's all.
+[15:10, 28/07/2025] Saya: Hola corazon si el paquete de su amiga si está
+[15:10, 28/07/2025] Saya: Y me mando la foto de tu paquete
+[15:13, 28/07/2025] Saya: Ay que bueno. Y cuando pasas por ciego?
+[15:13, 28/07/2025] Saya: Pienso que hoy 10 de la noche
+[15:13, 28/07/2025] Saya: Yo estoy ena Habana yo mismo lo entregaré vale
+[15:13, 28/07/2025] Saya: Pienso salir para oriente hoy
+[16:09, 28/07/2025] Vivian Toral Cot Toral Cot: Al fin apareció
+[16:45, 28/07/2025] Saya: No cantemos victoria 🤣🤣🤣
+[20:02, 28/07/2025] Saya: Vivi mi reporte de hoy es k no he podido hacer ejercicios, atareadisima hasta las 6 y ahi me entro un dolor de ovarios k todavia estoy en cama. Pero tengo fe k se me pase antes de 22h y poder hacer al menos mis 30 min de marche 😭😭😭😭😭
+[20:03, 28/07/2025] Saya: Por el resto, el desayuno de siempre y almuerzo hecho por mi papa, algo de indisciplina se colo pero bueno, con cordura. No he merendao ni picao nada. Y con este dolor ademas, no se si coma por la noche.
+[21:15, 28/07/2025] Saya: Se me quito el dolor de ovarios, deja ver k logro hacer ahora
+[21:17, 28/07/2025] Vivian Toral Cot Toral Cot: Bueno, yo comí ya una crema de calabacín con espinacas y un huevo blando dentro.
+[21:17, 28/07/2025] Saya: Candela tu si estas muy fuerte. Calabacin c courgettes?
+[21:19, 28/07/2025] Vivian Toral Cot Toral Cot: Y fui al gimnasio, como 40 min de pesas de brazos, algo de vélo elliptique, y otro poco de vélo estático.
+[21:52, 28/07/2025] Saya: Ahora voy a meter una tanda de ejercicios au poids du corps. Fesses
+[22:14, 28/07/2025] Saya: Bravo a toutes les deux. Un jour de plus de coché. 
+Mi point faible hoy fue el arroz y los 3 platanitos maduros. 
+Besitos. Bonne nuit.
+[06:03, 29/07/2025] Vivian Toral Cot Toral Cot: Voy a inspirarme de estos ejemplos
+[06:03, 29/07/2025] Vivian Toral Cot Toral Cot: Bravo!!!!!!💯
+[11:05, 29/07/2025] Saya: Je suis énervé. Mis analisis muestran una degradacion notable. Indice de grasa extremadamente alto. Mucho mas k hace un ano. Estoy empinga' porque no he dejado de decirlo a cuanto medico se me para delante, y nadie me hace caso.
+[11:05, 29/07/2025] Saya: 👆👆👆
+[11:05, 29/07/2025] Saya: Mensaje enviado a arley. Saliendo de la densitometrie
+[11:18, 29/07/2025] Vivian Toral Cot Toral Cot: Ese Perry es un gran n'importe quoi
+[11:18, 29/07/2025] Vivian Toral Cot Toral Cot: Y cómo puede ser eso???
+[11:26, 29/07/2025] Saya: Es lo k te decia k aunque me mate comiendo ensalada y me mate haciendo ejercicios, cada vez subo mas. Todos los analisis de sangre dan bien pero puede k no me esten haciendo los analisis que son, estan ahi empecinaos con los del cortisol, eso no es. Deja escribirle a la endocrino, empinga' asi como estoy.
+[11:41, 29/07/2025] Vivian Toral Cot Toral Cot: Y la tiroides?
+[11:47, 29/07/2025] Saya: Estan bien
+[11:48, 29/07/2025] Saya: Le escribi a la endocrino. Il y a une couille, yo no te digo k no podria comer maaaaas sano y hacer maaas deporte pero qd meme, con lo k hago no es pa k este asi. Mi imc esta a un paso de dar obésité. No es normal. Y antes hacia lo mismo k ahora y aunque nunca llegué al peso ideal, pesaba 6 kg menos k ahora.
+[11:50, 29/07/2025] Saya: La endocrina regresa de vacaciones el lunes segun su message d'absence
+[12:12, 29/07/2025] Vivian Toral Cot Toral Cot: Sí, tienen que investigar pq no es un reacción normal del organismo
+[18:50, 29/07/2025] Vivian Toral Cot Toral Cot: Saliendo de mi sesión de deporte. Algo de tapiz caminata fraccionada y luego ejercicio con pesos para los brazos (bíceps y tríceps)
+[18:50, 29/07/2025] Vivian Toral Cot Toral Cot: Ya en el RER
+[19:01, 29/07/2025] Saya: Vivi yo todavia ando con mala cara de mi emocion de por la manana. Tipicamente me alegro haberme lanzao en la responsabilizacion contigo porque asi me mantengo fuerte.
+Estoy extremadamente cansada porque cuando regresé me lancé a leclerc a comprar pescao, recogi a nolan en el futbol, me trague un bocao preparao por xiomara y sali corriendo pal hospital k mi mama tambien tenia una consulta. Esa gente atrasadisima, llegue aqui hace 30 min.
+
+Convoqué a toda la familia a comer pescado aqui 🤣🤣🤣 mi papa los quiere hacer fritos y xiomara esta haciendo congri. 
+
+Por tanto voy ahora, antes de k esté todo eso, a caminar mis 30 min japoneses y hacer hasta donde pueda mi hoja del dia. Full body. Alla voy. Ahorita te resumo todo.
+[20:16, 29/07/2025] Saya: Quemando 🤣🤣🤣
+[20:18, 29/07/2025] Saya: Desayuno. El el yogurt eché açai, canela, miel, gingibre y semillas de chia. Miam 😋
+[20:19, 29/07/2025] Saya: Almuerzo, sigo pecando con el arroz
+[20:19, 29/07/2025] Saya: Comida toca congri, pescado frito y ensalada
+[21:26, 29/07/2025] Vivian Toral Cot Toral Cot: Ese accesorio yo lo vi en Vente Privée y casi me lo compro. Me pareció me sería útil y no ocupa espacio.
+[21:27, 29/07/2025] Vivian Toral Cot Toral Cot: Saya, tú no activas los granos de chia?
+[21:29, 29/07/2025] Vivian Toral Cot Toral Cot: Qué manera de reírnos con las explicaciones del vídeo 🤣🤣🤣🤣
+[21:32, 29/07/2025] Saya: Cosas de arle y victor, yo tratando de integrarme en esta familia de deportistas
+[21:32, 29/07/2025] Vivian Toral Cot Toral Cot: Es realmente eficaz?
+[21:33, 29/07/2025] Saya: Si, cuando tengo tiempo, hoy tenia como 5 min antes de salirme pal hospital y tuvieron k activarse en el estomago. Yo las dejo tambien en el frio en un baso de agua y me la tomo al otro dia, pensaba k me iba a dar asco, k iba a ser baboso, y no, le echo unas goticas de limon o una pastilla de vitamina c efervescente, y queda bastante aceptable
+[21:34, 29/07/2025] Saya: Arle y victor dicen k si pero bueno k se yo? Hoy fue mi primera vez, como saber si es eficaz, si manana me duelen los brazos? Hoy si sentia k quemaba pensandolo bien
+[21:35, 29/07/2025] Vivian Toral Cot Toral Cot: *vaso 😉 ... Se te montó Merline
+[21:35, 29/07/2025] Saya: Vaso 😱🫣😱
+[21:35, 29/07/2025] Saya: Jajaja yo misma estaba ataca'
+[08:33, 30/07/2025] Saya: Baje de peso 😱😳
+[08:34, 30/07/2025] Saya: 300 g 🤣🤣🤣🤣
+[08:42, 30/07/2025] Saya: Mi desayuno + media manzana
+[08:49, 30/07/2025] Vivian Toral Cot Toral Cot: Por ahí se empieza
+[08:50, 30/07/2025] Vivian Toral Cot Toral Cot: El mío sin foto, fue: yogurt con chia y myrtilles, té verde y 3 tartines de Sarrasin con algo de mantequilla
+[09:00, 30/07/2025] Saya: Miam
+[09:00, 30/07/2025] Saya: Yo estoy en el trabajo hoy. Tomando té verde tambien yav🙃
+[13:24, 30/07/2025] Vivian Toral Cot Toral Cot: Saya, nada del Perry?
+[13:24, 30/07/2025] Saya: Cero
+[13:45, 30/07/2025] Vivian Toral Cot Toral Cot: Bueno, te mandé la foto virada 😉
+[13:45, 30/07/2025] Vivian Toral Cot Toral Cot: Con tomates de la casa
+[13:54, 30/07/2025] Saya: Yo no le hice fotos al mio por pena con los colegas. Noix de veau sauce porte + macedoine de légumes et patates douces + 1/2 pancito de esos k dan alli y de poste un bol d'ananas. Y aqui estoy alternando café con thé verde. Comer sano aqui si es facil porque ya ellos prepararon para ti. Habian dulces con cremas y cosas y ni tuve k resistir, no me llamaron la atencion 👏👏👏💪💪💪
+[18:26, 30/07/2025] Vivian Toral Cot Toral Cot: El short que tengo puesto hoy me queda algo ancho ya
+[19:07, 30/07/2025] Saya: Ahhhhhhh wonderful!!! Mi 
