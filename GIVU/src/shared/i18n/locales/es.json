@@ -1,0 +1,59 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "retry": "Reintentar"
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "register": "Registrarse",
+    "email": "Email",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "loginButton": "Iniciar Sesión",
+    "registerButton": "Registrarse",
+    "logout": "Cerrar Sesión"
+  },
+  "navigation": {
+    "discover": "Descubrir",
+    "messages": "Mensajes",
+    "wallet": "Cartera",
+    "profile": "Perfil"
+  },
+  "chat": {
+    "sendMessage": "Enviar Mensaje",
+    "typeMessage": "Escribe tu mensaje...",
+    "noMessages": "Sin mensajes",
+    "newMessage": "Nuevo mensaje"
+  },
+  "calls": {
+    "incomingCall": "Llamada Entrante",
+    "outgoingCall": "Llamada Saliente",
+    "answer": "Responder",
+    "decline": "Rechazar",
+    "endCall": "Colgar"
+  },
+  "wallet": {
+    "balance": "Saldo",
+    "addFunds": "Agregar Fondos",
+    "withdraw": "Retirar",
+    "transactions": "Transacciones",
+    "noTransactions": "Sin transacciones"
+  },
+  "profile": {
+    "editProfile": "Editar Perfil",
+    "settings": "Configuración",
+    "help": "Ayuda y Soporte",
+    "about": "Acerca de"
+  }
+}
