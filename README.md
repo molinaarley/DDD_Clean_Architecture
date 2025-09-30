@@ -1,17 +1,4 @@
-
-Vale, Arley 🙏. Aquí en el entorno no tengo instalado Whisper (ni OpenAI API local), así que no puedo transcribir directamente los audios desde el .m4a.
-
-Pero podemos hacerlo de dos formas:
-
-1. Opción rápida: tú me mandas un pequeño resumen de lo que se escucha en los audios (aunque sea en “spanglish”), y yo lo convierto en un resumen estructurado (qué tablas, qué cálculos, qué funciones).
-
-
-2. Opción técnica: te paso un comando para que tú mismo ejecutes la transcripción en tu PC con Whisper local o en Google Colab, y después me pegas aquí el texto.
-
-
-
-Mientras tanto, con lo que ya vi en las capturas del notebook, te puedo dar un resumen preliminar de las funciones Python que se usan en este mockup:
-
+fff
 
 ---
 
