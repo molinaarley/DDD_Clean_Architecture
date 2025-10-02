@@ -1,0 +1,59 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "retry": "Retry"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "forgotPassword": "Forgot Password?",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "logout": "Logout"
+  },
+  "navigation": {
+    "discover": "Discover",
+    "messages": "Messages",
+    "wallet": "Wallet",
+    "profile": "Profile"
+  },
+  "chat": {
+    "sendMessage": "Send Message",
+    "typeMessage": "Type your message...",
+    "noMessages": "No messages",
+    "newMessage": "New message"
+  },
+  "calls": {
+    "incomingCall": "Incoming Call",
+    "outgoingCall": "Outgoing Call",
+    "answer": "Answer",
+    "decline": "Decline",
+    "endCall": "End Call"
+  },
+  "wallet": {
+    "balance": "Balance",
+    "addFunds": "Add Funds",
+    "withdraw": "Withdraw",
+    "transactions": "Transactions",
+    "noTransactions": "No transactions"
+  },
+  "profile": {
+    "editProfile": "Edit Profile",
+    "settings": "Settings",
+    "help": "Help & Support",
+    "about": "About"
+  }
+}

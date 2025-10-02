@@ -1,0 +1,113 @@
+export interface Country {
+  code: string;
+  name: string;
+  flag: string;
+  phoneCode: string;
+}
+
+export const countries: Country[] = [
+  { code: 'FR', name: 'France', flag: '🇫🇷', phoneCode: '+33' },
+  { code: 'ES', name: 'España', flag: '🇪🇸', phoneCode: '+34' },
+  { code: 'IT', name: 'Italia', flag: '🇮🇹', phoneCode: '+39' },
+  { code: 'DE', name: 'Deutschland', flag: '🇩🇪', phoneCode: '+49' },
+  { code: 'GB', name: 'United Kingdom', flag: '🇬🇧', phoneCode: '+44' },
+  { code: 'US', name: 'United States', flag: '🇺🇸', phoneCode: '+1' },
+  { code: 'CA', name: 'Canada', flag: '🇨🇦', phoneCode: '+1' },
+  { code: 'BE', name: 'Belgique', flag: '🇧🇪', phoneCode: '+32' },
+  { code: 'CH', name: 'Suisse', flag: '🇨🇭', phoneCode: '+41' },
+  { code: 'NL', name: 'Nederland', flag: '🇳🇱', phoneCode: '+31' },
+  { code: 'PT', name: 'Portugal', flag: '🇵🇹', phoneCode: '+351' },
+  { code: 'AT', name: 'Österreich', flag: '🇦🇹', phoneCode: '+43' },
+  { code: 'SE', name: 'Sverige', flag: '🇸🇪', phoneCode: '+46' },
+  { code: 'NO', name: 'Norge', flag: '🇳🇴', phoneCode: '+47' },
+  { code: 'DK', name: 'Danmark', flag: '🇩🇰', phoneCode: '+45' },
+  { code: 'FI', name: 'Suomi', flag: '🇫🇮', phoneCode: '+358' },
+  { code: 'PL', name: 'Polska', flag: '🇵🇱', phoneCode: '+48' },
+  { code: 'CZ', name: 'Česká republika', flag: '🇨🇿', phoneCode: '+420' },
+  { code: 'HU', name: 'Magyarország', flag: '🇭🇺', phoneCode: '+36' },
+  { code: 'RO', name: 'România', flag: '🇷🇴', phoneCode: '+40' },
+  { code: 'BG', name: 'България', flag: '🇧🇬', phoneCode: '+359' },
+  { code: 'HR', name: 'Hrvatska', flag: '🇭🇷', phoneCode: '+385' },
+  { code: 'SI', name: 'Slovenija', flag: '🇸🇮', phoneCode: '+386' },
+  { code: 'SK', name: 'Slovensko', flag: '🇸🇰', phoneCode: '+421' },
+  { code: 'LT', name: 'Lietuva', flag: '🇱🇹', phoneCode: '+370' },
+  { code: 'LV', name: 'Latvija', flag: '🇱🇻', phoneCode: '+371' },
+  { code: 'EE', name: 'Eesti', flag: '🇪🇪', phoneCode: '+372' },
+  { code: 'IE', name: 'Ireland', flag: '🇮🇪', phoneCode: '+353' },
+  { code: 'GR', name: 'Ελλάδα', flag: '🇬🇷', phoneCode: '+30' },
+  { code: 'CY', name: 'Κύπρος', flag: '🇨🇾', phoneCode: '+357' },
+  { code: 'MT', name: 'Malta', flag: '🇲🇹', phoneCode: '+356' },
+  { code: 'LU', name: 'Luxembourg', flag: '🇱🇺', phoneCode: '+352' },
+  { code: 'IS', name: 'Ísland', flag: '🇮🇸', phoneCode: '+354' },
+  { code: 'LI', name: 'Liechtenstein', flag: '🇱🇮', phoneCode: '+423' },
+  { code: 'MC', name: 'Monaco', flag: '🇲🇨', phoneCode: '+377' },
+  { code: 'SM', name: 'San Marino', flag: '🇸🇲', phoneCode: '+378' },
+  { code: 'VA', name: 'Vatican', flag: '🇻🇦', phoneCode: '+379' },
+  { code: 'AD', name: 'Andorra', flag: '🇦🇩', phoneCode: '+376' },
+  // Países de América Latina
+  { code: 'MX', name: 'México', flag: '🇲🇽', phoneCode: '+52' },
+  { code: 'AR', name: 'Argentina', flag: '🇦🇷', phoneCode: '+54' },
+  { code: 'BR', name: 'Brasil', flag: '🇧🇷', phoneCode: '+55' },
+  { code: 'CL', name: 'Chile', flag: '🇨🇱', phoneCode: '+56' },
+  { code: 'CO', name: 'Colombia', flag: '🇨🇴', phoneCode: '+57' },
+  { code: 'PE', name: 'Perú', flag: '🇵🇪', phoneCode: '+51' },
+  { code: 'VE', name: 'Venezuela', flag: '🇻🇪', phoneCode: '+58' },
+  { code: 'UY', name: 'Uruguay', flag: '🇺🇾', phoneCode: '+598' },
+  { code: 'PY', name: 'Paraguay', flag: '🇵🇾', phoneCode: '+595' },
+  { code: 'BO', name: 'Bolivia', flag: '🇧🇴', phoneCode: '+591' },
+  { code: 'EC', name: 'Ecuador', flag: '🇪🇨', phoneCode: '+593' },
+  { code: 'GY', name: 'Guyana', flag: '🇬🇾', phoneCode: '+592' },
+  { code: 'SR', name: 'Suriname', flag: '🇸🇷', phoneCode: '+597' },
+  { code: 'GF', name: 'Guyane française', flag: '🇬🇫', phoneCode: '+594' },
+  { code: 'FK', name: 'Falkland Islands', flag: '🇫🇰', phoneCode: '+500' },
+  // Países de África
+  { code: 'MA', name: 'المغرب', flag: '🇲🇦', phoneCode: '+212' },
+  { code: 'DZ', name: 'الجزائر', flag: '🇩🇿', phoneCode: '+213' },
+  { code: 'TN', name: 'تونس', flag: '🇹🇳', phoneCode: '+216' },
+  { code: 'LY', name: 'ليبيا', flag: '🇱🇾', phoneCode: '+218' },
+  { code: 'EG', name: 'مصر', flag: '🇪🇬', phoneCode: '+20' },
+  { code: 'ZA', name: 'South Africa', flag: '🇿🇦', phoneCode: '+27' },
+  { code: 'NG', name: 'Nigeria', flag: '🇳🇬', phoneCode: '+234' },
+  { code: 'KE', name: 'Kenya', flag: '🇰🇪', phoneCode: '+254' },
+  { code: 'GH', name: 'Ghana', flag: '🇬🇭', phoneCode: '+233' },
+  { code: 'ET', name: 'Ethiopia', flag: '🇪🇹', phoneCode: '+251' },
+  // Países de Asia
+  { code: 'CN', name: '中国', flag: '🇨🇳', phoneCode: '+86' },
+  { code: 'JP', name: '日本', flag: '🇯🇵', phoneCode: '+81' },
+  { code: 'KR', name: '한국', flag: '🇰🇷', phoneCode: '+82' },
+  { code: 'IN', name: 'भारत', flag: '🇮🇳', phoneCode: '+91' },
+  { code: 'TH', name: 'ประเทศไทย', flag: '🇹🇭', phoneCode: '+66' },
+  { code: 'VN', name: 'Việt Nam', flag: '🇻🇳', phoneCode: '+84' },
+  { code: 'ID', name: 'Indonesia', flag: '🇮🇩', phoneCode: '+62' },
+  { code: 'MY', name: 'Malaysia', flag: '🇲🇾', phoneCode: '+60' },
+  { code: 'SG', name: 'Singapore', flag: '🇸🇬', phoneCode: '+65' },
+  { code: 'PH', name: 'Pilipinas', flag: '🇵🇭', phoneCode: '+63' },
+  { code: 'TW', name: '台灣', flag: '🇹🇼', phoneCode: '+886' },
+  { code: 'HK', name: '香港', flag: '🇭🇰', phoneCode: '+852' },
+  { code: 'MO', name: '澳門', flag: '🇲🇴', phoneCode: '+853' },
+  { code: 'AU', name: 'Australia', flag: '🇦🇺', phoneCode: '+61' },
+  { code: 'NZ', name: 'New Zealand', flag: '🇳🇿', phoneCode: '+64' },
+  // Países de Oriente Medio
+  { code: 'SA', name: 'السعودية', flag: '🇸🇦', phoneCode: '+966' },
+  { code: 'AE', name: 'الإمارات', flag: '🇦🇪', phoneCode: '+971' },
+  { code: 'IL', name: 'ישראל', flag: '🇮🇱', phoneCode: '+972' },
+  { code: 'TR', name: 'Türkiye', flag: '🇹🇷', phoneCode: '+90' },
+  { code: 'IR', name: 'ایران', flag: '🇮🇷', phoneCode: '+98' },
+  { code: 'IQ', name: 'العراق', flag: '🇮🇶', phoneCode: '+964' },
+  { code: 'JO', name: 'الأردن', flag: '🇯🇴', phoneCode: '+962' },
+  { code: 'LB', name: 'لبنان', flag: '🇱🇧', phoneCode: '+961' },
+  { code: 'SY', name: 'سوريا', flag: '🇸🇾', phoneCode: '+963' },
+  { code: 'KW', name: 'الكويت', flag: '🇰🇼', phoneCode: '+965' },
+  { code: 'QA', name: 'قطر', flag: '🇶🇦', phoneCode: '+974' },
+  { code: 'BH', name: 'البحرين', flag: '🇧🇭', phoneCode: '+973' },
+  { code: 'OM', name: 'عُمان', flag: '🇴🇲', phoneCode: '+968' },
+  { code: 'YE', name: 'اليمن', flag: '🇾🇪', phoneCode: '+967' },
+];
+
+export function getCountryByCode(code: string): Country | undefined {
+  return countries.find(country => country.code === code);
+}
+
+export function getCountryByPhoneCode(phoneCode: string): Country | undefined {
+  return countries.find(country => country.phoneCode === phoneCode);
+}
